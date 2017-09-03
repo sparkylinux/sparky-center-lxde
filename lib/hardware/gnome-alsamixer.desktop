@@ -1,0 +1,25 @@
+[Desktop Entry]
+Name=Sound Mixer
+Name[es_AR]=Mezclador de sonido
+Name[fr_FR]=Mixeur de son
+Name[ja_JP]=サウンドミキサー
+Name[pl_PL]=Mixer dźwięku
+Name[pt_BR]=Mixer do Som
+Name[pt_PT]=Misturador de audio
+Name[ru_RU]=Звуковой микшер
+Comment=Sound mixer of the system
+Comment[es_AR]=Mezclador de sonido
+Comment[fr_FR]=Mixeur de son du système
+Comment[it_IT]=Sound mixer per il sistema
+Comment[ja_JP]=システムのサウンドミキサー
+Comment[pl_PL]=Konfiguracja ustawień serwera dźwięku
+Comment[pt_BR]=Mixer do som para o sistema
+Comment[pt_PT]=Misturador de audio do sistema
+Comment[ru_RU]=Системный звуковой микшер
+Exec=/usr/lib/sparkycenter/bin/sparky-mixer
+Icon=multimedia-volume-control
+Terminal=false
+Type=Application
+Categories=Application;AudioVideo;
+X-Desktop-File-Install-Version=0.3
+StartupNotify=true

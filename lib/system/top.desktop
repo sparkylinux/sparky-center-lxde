@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Top
+Comment=Show System Processes
+Comment[es_AR]=Muestra los procesos del sistema
+Comment[fr_FR]=Montre les processus du Système
+Comment[it_IT]=Mostra i processi di sistema
+Comment[ja_JP]=システムプロセスの表示
+Comment[pl_PL]=Pokazuje aktywne procesy systemu
+Comment[pt_BR]=Mostra os processos do sistema
+Comment[pt_PT]=Mostra Processos do Sistema
+Comment[ru_RU]=Отображение системных процессов
+Exec=sparky-terminal -e top
+Icon=htop
+Terminal=False
+Type=Application
+Categories=Application;System;

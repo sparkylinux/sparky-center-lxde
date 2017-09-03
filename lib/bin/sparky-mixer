@@ -1,0 +1,48 @@
+#!/bin/bash
+
+# This script choose and run a sound mixer depends 
+# which one is installed
+# Created by Paweł "pavroo' Pijanowski 2015/03/19
+# Copyright 2015, 2016 under the GNU GPL2 License
+# Last update 2016/06/11
+
+# get default's locale file
+DEFLOCDIR="/usr/share/sparky/sparky-aptus"
+if [ "`cat /etc/default/locale | grep es_AR`" != "" ]; then
+. $DEFLOCDIR/es
+elif [ "`cat /etc/default/locale | grep fr_FR`" != "" ]; then
+. $DEFLOCDIR/fr
+elif [ "`cat /etc/default/locale | grep it_IT`" != "" ]; then
+. $DEFLOCDIR/it
+elif [ "`cat /etc/default/locale | grep ja_JP`" != "" ]; then
+. $DEFLOCDIR/ja
+elif [ "`cat /etc/default/locale | grep pl_PL`" != "" ]; then
+. $DEFLOCDIR/pl
+elif [ "`cat /etc/default/locale | grep pt_BR`" != "" ]; then
+. $DEFLOCDIR/pt_BR
+elif [ "`cat /etc/default/locale | grep pt_PT`" != "" ]; then
+. $DEFLOCDIR/pt_PT
+elif [ "`cat /etc/default/locale | grep ru_RU`" != "" ]; then
+. $DEFLOCDIR/ru
+else
+. $DEFLOCDIR/en
+fi
+
+DIALOG="yad --window-icon=multimedia-volume-control --width=450 --height=200 --center"
+TITLE="--always-print-result --dialog-sep --image=multimedia-volume-control --title="
+TITLETEXT="$LOCAL19"
+MSGBOX=" --button=Ok:0 "
+TEXT="--text="
+
+if [ -f /usr/bin/pavucontrol ]; then
+	/usr/bin/pavucontrol
+elif [ -f /usr/bin/gnome-alsamixer ]; then
+	/usr/bin/gnome-alsamixer
+elif [ -f /usr/bin/alsamixer ]; then
+	/usr/bin/sparky-terminal -e /usr/bin/alsamixer
+else
+	$DIALOG $TITLE"$TITLETEXT" $MSGBOX $TEXT"$LOCAL20"
+	exit 0
+fi
+
+exit 0

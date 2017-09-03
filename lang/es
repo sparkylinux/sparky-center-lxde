@@ -1,0 +1,99 @@
+# Archivo de localización en español para Sparky Center LXDE.
+# Copyright 2015 Fernando "seacat" Velo <seacat.linux@gmail.com> 2015/12/27
+# Bajo la licencia GNU GPL v2
+# Last update by pavroo 2016/06/11
+
+LOCAL1="Apariencia del escritorio y aplicaciones"
+LOCAL2="Aplicaciones predeterminadas"
+LOCAL3="Administración del disco"
+LOCAL4="Administración del hardware"
+LOCAL5="Administración del software"
+LOCAL6="Configuración del sistema"
+LOCAL7="Configuración de usuarios del sistema"
+LOCAL8="Otras configuraciones"
+LOCAL9="Apariencia"
+LOCAL10="Predeterminado"
+LOCAL11="Disco"
+LOCAL12="Hardware"
+LOCAL13="Software"
+LOCAL14="Sistema"
+LOCAL15="Usuarios"
+LOCAL16="Otros"
+LOCAL17="Sin reproductor Flash"
+LOCAL18="No se encontró el reproductor de Flash, lo siento.\n\nInstale el paquete 'flashplugin-nonfree' e inténtelo nuevamente."
+LOCAL19="Sin mezclador de sonido"
+LOCAL20="No se encontró el mezclador de sonido, lo siento."
+
+### .desktop files to be translated too
+
+# editor.desktop
+# Name[es_AR]=Editor de texto
+# Comment[es_AR]=Elija el editor de texto predeterminado
+
+# java.desktop
+# Name[es_AR]=
+# Comment[es_AR]=Elija la versión de Java predeterminada
+
+# session.desktop
+# Name[es_AR]=Administrador de sesiones
+# Comment[es_AR]=Elija el administrador de sesiones predeterminado
+
+# terminal.desktop
+# Name[es_AR]=Emulador de terminal X
+# Comment[es_AR]=Elija el emulador de terminal predeterminado
+
+# window.desktop
+# Name[es_AR]=Administrador de Ventanas
+# Comment[es_AR]=Elija el administrador de ventanas predeterminado
+
+# cfdisk.desktop
+# GenericName[es_AR]=Editor de particiones en modo texto
+# Comment[es_AR]=Cree, reorganice y elimine particiones en modo texto
+
+# gnome-alsamixer.desktop
+# Name[es_AR]=Mezclador de sonido
+# Comment[es_AR]=Mezclador de sonido 
+
+# florence.desktop
+# Name[es_AR]=Teclado virtual
+# Comment[es_AR]=
+
+# itweb-settings.desktop
+# Name[es_AR]=Panel de Control de IcedTea Web
+# Comment[es_AR]=Configure IcedTea Web (javaws y complemento)
+
+# openjdk-policytool.desktop
+# Name[es_AR]=Herramienta de políticas de OpenJDK Java
+# Comment[es_AR]=
+
+# file-root.desktop
+# Name[es_AR]=Administrador de archivos como Root
+# Comment[es_AR]=Trabaje con archivos y carpetas como el root
+
+# reportbug.desktop
+# Name[es_AR]=Informe de errores
+# Comment[es_AR]=Informe los errores al BTS de Debian
+
+# terminal-root.desktop
+# Name[es_AR]=Terminal de Root
+# Comment[es_AR]=Emulador de terminal estándar para el sistema X window como root
+
+# top.desktop
+# Name[es_AR]=
+# Comment[es_AR]=Muestra los procesos del sistema
+
+# xkill.desktop
+# Name[es_AR]=
+# Comment[es_AR]=Termine un programa que funciona mal
+
+# sparky-center.desktop
+# Name[es_AR]=
+# Comment[es_AR]=Configure los parámetros del sistema
+
+# disk-manager.desktop
+# Name[es_AR]=Administrador de disco
+# Comment[es_AR]=Administra la configuración del sistema de archivos
+
+# obconf.desktop
+# Name[es_AR]=Gestor de configuración de Openbox
+# Comment[es_AR]=Configura i personaliza el gestor de ventanas Openbox

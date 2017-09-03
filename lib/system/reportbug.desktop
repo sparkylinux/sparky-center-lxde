@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Name=Reportbug
+Name[es_AR]=Informe de errores
+Name[ja_JP]=バグレポート
+Name[pl_PL]=Zgłaszanie błędów
+Name[pt_BR]=Reporta Erros e Falhas
+Name[pt_PT]=Reportar Bug
+Name[ru_RU]=Сообщить об ошибке
+Comment=Report bugs to the Debian BTS
+Comment[es_AR]=Informe los errores al BTS de Debian
+Comment[it_IT]=Segnala bugs al Debian BTS
+Comment[ja_JP]=Debian BTS へのバグ報告
+Comment[pl_PL]=Wyślij wykryty błąd do Systemu Śledzenia Błędów Debiana
+Comment[pt_BR]=Reporta erros e falhas para o Debian BTS
+Comment[pt_PT]=Reportar erros para os BTS Debian
+Comment[ru_RU]=Сообщить Debian BTS об ошибках
+GenericName=Debian bug reporting tool
+GenericName[ru]=Отчёт об ошибке Reportbug
+X-GNOME-FullName[ru]=Отчёт об ошибке Reportbug
+Icon=debian-swirl
+TryExec=reportbug
+Exec=reportbug --exit-prompt --ui gtk2
+Categories=System;

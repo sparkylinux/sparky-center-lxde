@@ -1,0 +1,1 @@
+?package(sparky-center-lxde):needs="X11" section="Applications/System"        title="Sparky Center LXDE" command="/usr/bin/sparky-center" icon="preferences-system"

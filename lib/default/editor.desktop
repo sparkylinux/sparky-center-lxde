@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Text editor
+Name[es_AR]=Editor de texto
+Name[fr_FR]=Editeur de texte
+Name[it_IT]=Editor di Testo
+Name[ja_JP]=テキストエディタ
+Name[pl_PL]=Edytor tekstu
+Name[pt_BR]=Editor de Texto
+Name[pt_PT]=Editor de Texto
+Name[ru_RU]=Текстовый редактор
+Comment=Choose default text editor
+Comment[es_AR]=Elija el editor de texto predeterminado
+Comment[fr_FR]=Choisir l'éditeur de texte par défaut
+Comment[it_IT]=Scegli l'editor di testo predefinito
+Comment[ja_JP]=デフォルトテキストエディタの選択
+Comment[pl_PL]=Wybierz domyślny edytor tekstu
+Comment[pt_BR]=Escolha o editor de texto padrão
+Comment[pt_PT]=Escolha o editor de texto padrão
+Comment[ru_RU]=Выберите текстовый редактор по умолчанию
+Icon=accessories-text-editor
+Exec=remsu "sparky-terminal -e update-alternatives --config gnome-text-editor"
+StartupNotify=true
+Terminal=False
+Categories=Settings;DesktopSettings;X-LXDE-Settings;GTK;

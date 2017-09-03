@@ -1,0 +1,26 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Virtual Keyboard
+Name[es_AR]=Teclado virtual
+Name[fr_FR]=Clavier virtuel
+Name[it_IT]=Tastiera Virtuale
+Name[ja_JP]=仮想キーボード
+Name[pl_PL]=Wirtualna klawiatura
+Name[pt_BR]=Teclado Virtual
+Name[pt_PT]=Teclado virtual
+Name[ru_RU]=Виртуальная клавиатура
+Comment=Virtual keyboard
+Comment[es_AR]=Teclado virtual
+Comment[fr_FR]=Clavier virtuel
+Comment[it_IT]=Tastiera Virtuale
+Comment[ja_JP]=仮想キーボード
+Comment[pl_PL]=Klawiatura wirtualna
+Comment[pt_BR]=Teclado Virtual
+Comment[pt_PT]=Teclado virtual do Sismeta
+Comment[ru_RU]=Виртуальная клавиатура
+Categories=GTK;Utility
+Exec=florence
+Icon=florence
+Terminal=false
+StartupNotify=true

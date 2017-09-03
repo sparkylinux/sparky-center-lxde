@@ -1,0 +1,100 @@
+# Polish localization file for Sparky Center LXDE.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/26
+# Under the GNU GPL v2
+# Translated to Polish by pavroo
+# Last update by pavroo 2016/06/11
+
+LOCAL1="Wygląd pulpitu i aplikacji"
+LOCAL2="Domyślne aplikacje"
+LOCAL3="Zarządzanie dyskiem"
+LOCAL4="Zarządzanie sprzętem"
+LOCAL5="Zarządzanie pakietami"
+LOCAL6="Ustawienia systemowe"
+LOCAL7="Ustawienia użytkowników systemu"
+LOCAL8="Inne ustawienia"
+LOCAL9="Wygląd"
+LOCAL10="Domyślne"
+LOCAL11="Dysk"
+LOCAL12="Sprzęt"
+LOCAL13="Programy"
+LOCAL14="System"
+LOCAL15="Użytkownicy"
+LOCAL16="Inne"
+LOCAL17="Brak Flash Playera"
+LOCAL18="Nie znaleziono Flash Playera!\n\nZainstaluj pakiet 'flashplugin-nonfree' i spróbuj ponownie."
+LOCAL19="Brak Miksera Dźwięku"
+LOCAL20="Nie znaleziono miksera dźwięku!"
+
+### .desktop files, również do przetłumaczenia
+
+# editor.desktop
+# Name[pl_PL]=Edytor tekstu
+# Comment[pl_PL]=Wybierz domyślny edytor tekstu
+
+# java.desktop
+# Name[pl_PL]=
+# Comment[pl_PL]=Wybierz domyślną wersję Java
+
+# session.desktop
+# Name[pl_PL]=Menadżer sesji
+# Comment[pl_PL]=Wybierz domyślnego menadżera sesji
+
+# terminal.desktop
+# Name[pl_PL]=Emulator Terminala
+# Comment[pl_PL]=Wybierz domyślny emulator terminala
+
+# window.desktop
+# Name[pl_PL]=Menadżer okien
+# Comment[pl_PL]=Wybierz domyślnego menadżera okien
+
+# cfdisk.desktop
+# GenericName[pl_PL]=Edytor partycji w trybie tekstowym
+# Comment[pl_PL]=Tworzenie, reorganizacja i usuwanie partycji w trybie tekstowym
+
+# gnome-alsamixer.desktop
+# Name[pl_PL]=Mixer dźwięku
+# Comment[pl_PL]=Konfiguracja ustawień serwera dźwięku
+
+# florence.desktop
+# Name[pl_PL]=Klawiatura wirtualna
+# Comment[pl_PL]=
+
+# itweb-settings.desktop
+# Name[pl_PL]=Panel kontroli IcedTea
+# Comment[pl_PL]=Konfiguracja IcedTea Web (javaws oraz wtyczka)
+
+# openjdk-policytool.desktop
+# Name[pl_PL]=Polityka prywatności OpenJDK Java
+# Comment[pl_PL]=
+
+# file-root.desktop
+# Name[pl_PL]=Menadżer plików administratora systemu
+# Comment[pl_PL]=Pracuj na plikach i folderach z prawami administratora
+
+# reportbug.desktop
+# Name[pl_PL]=Zgłaszanie błędów
+# Comment[pl_PL]=Wyślij wykryty błąd do Systemu Śledzenia Błędów Debiana
+
+# terminal-root.desktop
+# Name[pl_PL]=Terminal administratora systemu
+# Comment[pl_PL]=Emulator terminala systemu z prawami administratora
+
+# top.desktop
+# Name[pl_PL]=
+# Comment[pl_PL]=Pokazuje aktywne procesy systemu
+
+# xkill.desktop
+# Name[pl_PL]=
+# Comment[pl_PL]=Zakończ wadliwie działający program
+
+# sparky-center.desktop
+# Name[pl_PL]=
+# Comment[pl_PL]=Konfiguracja ustawień systemu
+
+# disk-manager.desktop
+# Name[pl_PL]=Menadżer dysku
+# Comment[pl_PL]=Zarządaj konfiguracją systemu plików
+
+# obconf.desktop
+# Name[pl_PL]=Menadżer konfiguracji Openbox
+# Comment[pl_PL]=Konfiguracja i personalizacja menadżera okien Openbox

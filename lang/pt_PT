@@ -1,0 +1,99 @@
+# Arquivo de localização para Portugues de Portugal do Sparky Center LXDE.
+# Copyright 2016 Joel Chaves "Flacc" <joel_chaves@icloud.com> Sunday 31 January 12:45:25 WET 2016
+# Sob a Licença GNU GPL v2
+# Last update by pavroo 2016/06/11
+
+LOCAL1="Definições de visualização do ambiente de trabalho e as aplicações"
+LOCAL2="Aplicações por omissão"
+LOCAL3="Gestão do disco"
+LOCAL4="Gestão de Hardware"
+LOCAL5="Gestão de Programas"
+LOCAL6="Definições de sistema"
+LOCAL7="Definições de utilizadores do sistema"
+LOCAL8="Outras definições"
+LOCAL9="Aparência"
+LOCAL10="Padrão (Omissão),(Default)"
+LOCAL11="Disco"
+LOCAL12="Hardware"
+LOCAL13="Programas"
+LOCAL14="Sistema"
+LOCAL15="Utilizadores"
+LOCAL16="Outros"
+LOCAL17="Sem Flash Player"
+LOCAL18="Nenhum Flash Player encontrado, lamentamos!\n\nInstale o pacote 'flashplugin-nonfree' e tente novamente."
+LOCAL19="Sem Sound Mixer"
+LOCAL20="Nenhum sound mixer encontrado no sistema, lamentamos!"
+
+### .desktop
+
+# Arquivo a ser traduzido também editor.desktop
+# Name[pt_PT]=Editor de Texto
+# Comment[pt_PT]=Escolha o editor de texto padrão
+
+# Arquivo a ser traduzido também java.desktop
+# Name[pt_PT]=Java
+# Comment[pt_PT]=Escolha a versão padrão (default)do Java
+
+# Arquivo a ser traduzido também session.desktop
+# Name[pt_PT]=Gestor de sessões
+# Comment[pt_PT]=Escolha gestor de sessão padrão (default)
+
+# Arquivo a ser traduzido também terminal.desktop
+# Name[pt_PT]=X Terminal Emulator
+# Comment[pt_PT]=Escolha a Predefinição do Emulador de Terminal
+
+# Arquivo a ser traduzido também window.desktop
+# Name[pt_PT]=Gestor de janelas
+# Comment[pt_PT]=Escolha gestor de janelas perdefenido
+
+# Arquivo a ser traduzido também cfdisk.desktop
+# GenericName[pt_PT]=Editor em modo de Texto do gestor Partições
+# Comment[pt_PT]=Criar, organizar e eliminar partições em modo texto
+
+# Arquivo a ser traduzido também gnome-alsamixer.desktop
+# Name[pt_PT]=Misturador de audio
+# Comment[pt_PT]=Misturador de audio do sistema
+
+# Arquivo a ser traduzido também florence.desktop
+# Name[pt_PT]=Teclado virtual
+# Comment[pt_PT]=Teclado virtual do Sismeta
+
+# Arquivo a ser traduzido também itweb-settings.desktop
+# Name[pt_PT]=Painel de Controlo Web IcedTea
+# Comment[pt_PT]=Configure IcedTea Web (javaws e plug-in)
+
+# Arquivo a ser traduzido também openjdk-policytool.desktop
+# Name[pt_PT]=Definições do OpenJDK Java
+# Comment[pt_PT]=Definições do OpenJDK Java
+
+# Arquivo a ser traduzido também file-root.desktop
+# Name[pt_PT]=Gestor de fecheiros ROOT
+# Comment[pt_PT]=Trabalhar em fecheiros e pastas como root
+
+# Arquivo a ser traduzido também reportbug.desktop
+# Name[pt_PT]=Reportar Bug
+# Comment[pt_PT]=Reportar erros para os BTS Debian
+
+# Arquivo a ser traduzido também terminal-root.desktop
+# Name[pt_PT]=Terminal Root
+# Comment[pt_PT]=Treminal predefenido  para o sistema de janelas X como root
+
+# Arquivo a ser traduzido também top.desktop
+# Name[pt_PT]=Mostrar processos do Sistema
+# Comment[pt_PT]=Mostra Processos do Sistema
+
+# Arquivo a ser traduzido também xkill.desktop
+# Name[pt_PT]=Treminar um Programa (kill)
+# Comment[pt_PT]=Termina um Programa (kill)
+
+# Arquivo a ser traduzido também sparky-center.desktop
+# Name[pt_PT]=Configuração do Sistema
+# Comment[pt_PT]=Configurar as definições do sistema
+
+# Arquivo a ser traduzido também disk-manager.desktop
+# Name[pt_PT]=Gestor de Discos
+# Comment[pt_PT]=Gestor de configuração de discos do sistema
+
+# Arquivo a ser traduzido também obconf.desktop
+# Name[pt_PT]=Gestor de configuração OpenBox
+# Comment[pt_PT]=Configurar e personalizar o gestor de janelas OpenBox

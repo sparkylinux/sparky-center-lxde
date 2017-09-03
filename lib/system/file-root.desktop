@@ -1,0 +1,26 @@
+[Desktop Entry]
+Name=Root file manager
+Name[es_AR]=Administrador de archivos como Root
+Name[fr_FR]=Gestionnaire de fichier Root
+Name[it_IT]=File manager di Root
+Name[ja_JP]=Root ファイルマネージャー
+Name[pl_PL]=Menadżer plików administratora systemu
+Name[pt_BR]=Gerenciador de Arquivos em Modo Root
+Name[pt_PT]=Gestor de fecheiros ROOT
+Name[ru_RU]=Файловый менеджер Root
+Comment=Work on files and folders as root
+Comment[es_AR]=Trabaje con archivos y carpetas como el root
+Comment[fr_FR]=Gérer les fichiers et répertoires en mode Root
+Comment[it_IT]=Lavora su file e cartelle come amministratore
+Comment[ja_JP]=root でのファイル・フォルダ作業
+Comment[pl_PL]=Pracuj na plikach i folderach z prawami administratora
+Comment[pt_BR]=Trabalhe nos arquivos e diretórios em modo root
+Comment[pt_PT]=Trabalhar em fecheiros e pastas como root
+Comment[ru_RU]=Работа с файлами и папками в качестве root
+Exec=remsu pcmanfm
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Icon=system-file-manager
+Categories=System;
+X-Desktop-File-Install-Version=0.20

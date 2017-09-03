@@ -1,0 +1,25 @@
+[Desktop Entry]
+Type=Application
+Name=Session manager
+Name[es_AR]=Administrador de sesiones
+Name[fr_FR]=Gestionnaire de session
+Name[it_IT]=Gestore delle Sessioni
+Name[ja_JP]=セッションマネージャー
+Name[pl_PL]=Menadżer sesji
+Name[pt_BR]=Gerenciador de Sessão
+Name[pt_PT]=Gestor de sessões
+Name[ru_RU]=Менеджер сессии
+Comment=Choose default session manager
+Comment[es_AR]=Elija el administrador de sesiones predeterminado
+Comment[fr_FR]=Choisir le Gestionnaire de session par défaut
+Comment[it_IT]=Scegli il gestore delle sessioni predefinito
+Comment[en_US]=デフォルトセッションマネージャーの選択
+Comment[pl_PL]=Wybierz domyślnego menadżera sesji
+Comment[pt_BR]=Escolha gerenciador de sessão padrão
+Comment[pt_PT]=Escolha gestor de sessão padrão (default)
+Comment[ru_RU]=Выберите менеджер сессии по умолчанию
+Icon=session-properties
+Exec=remsu "sparky-terminal -e update-alternatives --config x-session-manager"
+StartupNotify=true
+Terminal=False
+Categories=Settings;DesktopSettings;X-LXDE-Settings;GTK;

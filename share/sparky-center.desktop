@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Sparky Center LXDE
+Name[pt_PT]=Configuração do Sistema
+GenericName=Sparky Center LXDE
+Comment=Configure system settings
+Comment[es_AR]=Configure los parámetros del sistema
+Comment[fr_FR]=Configurer les paramètres du système
+Comment[it_IT]=Configura le impostazioni di sistema
+Comment[en_US]=システム設定
+Comment[pl_PL]=Konfiguracja ustawień systemu
+Comment[pt_BR]=Configurar ajustes do sistema
+Comment[pt_PT]=Configurar as definições do sistema
+Comment[ru_RU]=Настройка системных параметров
+Exec=/usr/bin/sparky-center
+Icon=preferences-system
+Terminal=false
+Type=Application
+Categories=Applications;System
