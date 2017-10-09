@@ -40,7 +40,6 @@ openjdk-8-jre | openjdk-7-jre
 pcmanfm
 reportbug
 simple-scan
-sparky-autostart
 sparky-conkeyset
 sparky-fontset
 sparky-keyboard
