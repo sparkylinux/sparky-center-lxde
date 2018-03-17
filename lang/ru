@@ -2,7 +2,6 @@
 # Copyright 2015 Igor Klyushnyov <inklu@yandex.ru> 2015/12/27
 # Под лицензией GNU GPL v2
 # Last update by pavroo 2016/06/11
-
 LOCAL1="Внешний вид рабочего стола и приложений"
 LOCAL2="Приложения по умолчанию"
 LOCAL3="Управление дисками"
@@ -23,7 +22,6 @@ LOCAL17="Отсутствует Flash плеер"
 LOCAL18="Простите, не найден Flash плеер!\n\nУстановите пакет 'flashplugin-nonfree' и попробуйте снова."
 LOCAL19="Отсутствует звуковой микшер"
 LOCAL20="Простите, звуковой микшер не найден!"
-
 ### .desktop files to be translated too
 
 # editor.desktop

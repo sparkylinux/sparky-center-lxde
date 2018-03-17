@@ -1,0 +1,45 @@
+#!/bin/bash
+
+testroot="`whoami`"
+if [ "$testroot" != "root" ]
+then
+	echo "Must be root... Exiting now..."
+	exit 1
+fi
+
+if [ -f /usr/bin/sparky-terminal ]; then
+	SPARKYXTERM="sparky-terminal -e"
+else
+	SPARKYXTERM="x-terminal-emulator -e"
+fi
+
+if [ "$1" = "editor" ]; then
+	$SPARKYXTERM "update-alternatives --config gnome-text-editor"
+
+elif [ "$1" = "java" ]; then
+	$SPARKYXTERM "update-alternatives --config java"
+
+elif [ "$1" = "session" ]; then
+	$SPARKYXTERM "update-alternatives --config x-session-manager"
+
+elif [ "$1" = "terminal" ]; then
+	$SPARKYXTERM "update-alternatives --config x-terminal-emulator"
+
+elif [ "$1" = "window" ]; then
+	$SPARKYXTERM "update-alternatives --config x-window-manager"
+
+elif [ "$1" = "cfdisk" ]; then
+	$SPARKYXTERM "cfdisk"
+
+elif [ "$1" = "disk-manager" ]; then
+	disk-manager
+
+elif [ "$1" = "pcmanfm" ]; then
+	pcmanfm
+
+elif [ "$1" = "sparky-terminal" ]; then
+	sparky-terminal
+
+fi
+
+exit 0

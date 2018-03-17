@@ -2,7 +2,6 @@
 # Copyright 2015 Carlo, "malato" Troiani <abbassolafrangetta@gmail.com> 26/10/2015
 # Rilasciato sotto licenza GNU GPL v2
 # Last update by pavroo 2016/06/11
-
 LOCAL1="Aspetto e comportamento del desktop e delle applicazioni"
 LOCAL2="Applicazioni predefinite"
 LOCAL3="Gestione dei Dischi"
@@ -23,7 +22,6 @@ LOCAL17="No Flash Player"
 LOCAL18="Flash Player non trovato, spiacente!\n\nInstalla il pacchetto 'flashplugin-nonfree'e prova di nuovo."
 LOCAL19="Sound Mixer non trovato"
 LOCAL20="Sound mixer non trovato, spiacente!"
-
 ### .desktop files to be translated too
 
 # editor.desktop

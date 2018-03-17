@@ -3,7 +3,6 @@
 # Sob a licença GNU GPL v2
 # Traduzido por Claudio Cesar de Sá "ccs1664" <ccs1664@gmail.com> 2015/10/30
 # Last update by pavroo 2016/06/11
-
 LOCAL1="Detalhes visuais e aparência das aplicações e da área de trabalho (desktop)"
 LOCAL2="Aplicações Padrões"
 LOCAL3="Gerenciamento de Disco"
@@ -24,7 +23,6 @@ LOCAL17="Ausência do Flash Player"
 LOCAL18="O Flash Player não foi encontrado, sinto muito!\n\nInstale o pacote 'flashplugin-nonfree' e tente novamente."
 LOCAL19="Sem o Mixer do Som"
 LOCAL20="O Mixer do som não foi encontrado, sinto muito!"
-
 ### .desktop files to be translated too
 
 # editor.desktop

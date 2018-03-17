@@ -3,7 +3,6 @@
 # Under the GNU GPL v2
 # Translated to Polish by pavroo
 # Last update by pavroo 2016/06/11
-
 LOCAL1="Wygląd pulpitu i aplikacji"
 LOCAL2="Domyślne aplikacje"
 LOCAL3="Zarządzanie dyskiem"
@@ -24,7 +23,6 @@ LOCAL17="Brak Flash Playera"
 LOCAL18="Nie znaleziono Flash Playera!\n\nZainstaluj pakiet 'flashplugin-nonfree' i spróbuj ponownie."
 LOCAL19="Brak Miksera Dźwięku"
 LOCAL20="Nie znaleziono miksera dźwięku!"
-
 ### .desktop files, również do przetłumaczenia
 
 # editor.desktop

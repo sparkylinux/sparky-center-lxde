@@ -2,7 +2,6 @@
 # Copyright 2016 hiver <hiver@club-internet.fr> 2016/06/05
 # Sous licence GNU GPL v2
 # Last update by pavroo 2016/06/11
-
 LOCAL1="Apparence du bureau et des applications"
 LOCAL2="Applications par défaut"
 LOCAL3="Gestion du disque"
@@ -23,7 +22,6 @@ LOCAL17="Pas de lecteur Flash"
 LOCAL18="Aucun de lecteur Flash trouvé, désolé!\n\nInstallez le paquet 'flashplugin-nonfree' et essayez à nouveau."
 LOCAL19="Pas de mixeur de son"
 LOCAL20="Aucun mixeur de son trouvé, désolé!"
-
 ### .desktop files to be translated too
 
 # editor.desktop

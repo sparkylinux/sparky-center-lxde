@@ -2,7 +2,6 @@
 # Copyright 2016 Joel Chaves "Flacc" <joel_chaves@icloud.com> Sunday 31 January 12:45:25 WET 2016
 # Sob a Licença GNU GPL v2
 # Last update by pavroo 2016/06/11
-
 LOCAL1="Definições de visualização do ambiente de trabalho e as aplicações"
 LOCAL2="Aplicações por omissão"
 LOCAL3="Gestão do disco"
@@ -23,7 +22,6 @@ LOCAL17="Sem Flash Player"
 LOCAL18="Nenhum Flash Player encontrado, lamentamos!\n\nInstale o pacote 'flashplugin-nonfree' e tente novamente."
 LOCAL19="Sem Sound Mixer"
 LOCAL20="Nenhum sound mixer encontrado no sistema, lamentamos!"
-
 ### .desktop
 
 # Arquivo a ser traduzido também editor.desktop

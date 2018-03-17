@@ -2,7 +2,6 @@
 # Copyright 2015 Fernando "seacat" Velo <seacat.linux@gmail.com> 2015/12/27
 # Bajo la licencia GNU GPL v2
 # Last update by pavroo 2016/06/11
-
 LOCAL1="Apariencia del escritorio y aplicaciones"
 LOCAL2="Aplicaciones predeterminadas"
 LOCAL3="Administración del disco"
@@ -23,7 +22,6 @@ LOCAL17="Sin reproductor Flash"
 LOCAL18="No se encontró el reproductor de Flash, lo siento.\n\nInstale el paquete 'flashplugin-nonfree' e inténtelo nuevamente."
 LOCAL19="Sin mezclador de sonido"
 LOCAL20="No se encontró el mezclador de sonido, lo siento."
-
 ### .desktop files to be translated too
 
 # editor.desktop

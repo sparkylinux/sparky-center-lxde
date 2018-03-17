@@ -2,7 +2,6 @@
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/26
 # Under the GNU GPL v2
 # Last update by pavroo 2016/06/11
-
 LOCAL1="Look and feel of the desktop and applications"
 LOCAL2="Default applications"
 LOCAL3="Disk management"
@@ -23,7 +22,6 @@ LOCAL17="No Flash Player"
 LOCAL18="No Flash Player found, sorry!\n\nInstall 'flashplugin-nonfree' package and try again."
 LOCAL19="No Sound Mixer"
 LOCAL20="No sound mixer found, sorry!"
-
 ### .desktop files to be translated too
 
 # editor.desktop

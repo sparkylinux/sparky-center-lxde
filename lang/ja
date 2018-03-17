@@ -3,7 +3,6 @@
 # Under the GNU GPL v2
 # Last update 2017/01/06
 # Translated to Japanese by BALLOON a.k.a. Fu-sen.
-
 LOCAL1="デスクトップ・アプリケーションの外見"
 LOCAL2="デフォルトアプリケーション"
 LOCAL3="ディスク管理"
@@ -24,7 +23,6 @@ LOCAL17="Flash プレーヤーなし"
 LOCAL18="Flash プレーヤーが見つかりません、ごめんなさい！\n\n'flashplugin-nonfree' パッケージをインストールし、再度行って下さい"
 LOCAL19="サウンドミキサーなし"
 LOCAL20="サウンドミキサーが見つかりません、ごめんなさい！"
-
 ### .desktop files to be translated too
 
 # editor.desktop
