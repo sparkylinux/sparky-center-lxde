@@ -23,7 +23,6 @@ camorama
 disk-manager
 dpkg
 florence
-gdebi
 pavucontrol | gnome-alsamixer | alsa-utils
 gufw
 icedtea-plugin
@@ -36,7 +35,7 @@ lxsession
 lxtask
 ntfs-3g
 openbox
-openjdk-8-jre | openjdk-7-jre
+default-jre
 pcmanfm
 reportbug
 simple-scan
@@ -48,7 +47,7 @@ sparky-remsu
 sparky-timedateset
 sparky-users
 sparky-xdf
-sparky-xterm
+sparky-xterm (>= 0.2.0)
 synaptic
 system-config-printer
 ufw

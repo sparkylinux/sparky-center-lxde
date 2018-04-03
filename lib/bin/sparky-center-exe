@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Last update 2018/03/29
+
 testroot="`whoami`"
 if [ "$testroot" != "root" ]
 then
@@ -7,10 +9,11 @@ then
 	exit 1
 fi
 
-if [ -f /usr/bin/sparky-terminal ]; then
-	SPARKYXTERM="sparky-terminal -e"
+if [ -f /usr/bin/sparky-xterm ];then
+	SPARKYXTERM="/usr/bin/sparky-xterm"
 else
-	SPARKYXTERM="x-terminal-emulator -e"
+	echo "sparky-xterm is missing... Exiting..."
+	exit 1
 fi
 
 if [ "$1" = "editor" ]; then
@@ -38,7 +41,7 @@ elif [ "$1" = "pcmanfm" ]; then
 	pcmanfm
 
 elif [ "$1" = "sparky-terminal" ]; then
-	sparky-terminal
+	x-terminal-emulator
 
 fi
 
