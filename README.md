@@ -29,7 +29,6 @@ icedtea-plugin
 icedtea-netx
 libfm-tools
 lxinput
-lxmed
 lxrandr
 lxsession
 lxtask
@@ -37,10 +36,8 @@ ntfs-3g
 openbox
 default-jre
 pcmanfm
-reportbug
 simple-scan
 sparky-conkeyset
-sparky-fontset
 sparky-keyboard
 sparky-locales
 sparky-remsu
