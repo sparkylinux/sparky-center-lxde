@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Last update 2018/05/29
+
+if [ "$1" = "openjdk" ]; then
+	if [ -f /usr/bin/policytool ]; then
+		/usr/bin/policytool
+	else
+		xmessage "openjdk-8-jre package is NOT installed. Exiting now..."
+		exit 1
+	fi
+
+elif [ "$1" = "icedtea" ]; then
+	if [ -f /usr/bin/itweb-settings ]; then
+		/usr/bin/itweb-settings
+	else
+		xmessage "icedtea-netx package is NOT installed. Exiting now..."
+		exit 1
+	fi
+
+fi
+
+exit 0

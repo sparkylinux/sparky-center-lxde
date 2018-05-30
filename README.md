@@ -25,8 +25,6 @@ dpkg
 florence
 pavucontrol | gnome-alsamixer | alsa-utils
 gufw
-icedtea-plugin
-icedtea-netx
 libfm-tools
 lxinput
 lxrandr
@@ -34,7 +32,6 @@ lxsession
 lxtask
 ntfs-3g
 openbox
-default-jre
 pcmanfm
 simple-scan
 sparky-conkeyset
@@ -51,6 +48,13 @@ ufw
 yad
 xscreensaver
 zenity
+
+Recommends:
+-------------
+default-jre
+icedtea-plugin
+icedtea-netx
+openjdk-8-jre
 
 Install:
 -------------
