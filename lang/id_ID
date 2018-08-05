@@ -1,0 +1,83 @@
+# Indonesian localization file for Sparky Center LXDE.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/26
+# Under the GNU GPL v2
+# Last update by pavroo 2018/08/05
+# Translated to Indonesian by les kompie
+LOCAL1="Tampilan dan nuansa desktop dan aplikasi"
+LOCAL2="Aplikasi default"
+LOCAL3="Manajemen disk"
+LOCAL4="Manajemen hardware"
+LOCAL5="Manajemen software"
+LOCAL6="Pengaturan sistem"
+LOCAL7="Pengaturan user sistem"
+LOCAL8="Pengaturan lain"
+LOCAL9="Penampilan"
+LOCAL10="Default"
+LOCAL11="Disk"
+LOCAL12="Hardware"
+LOCAL13="Software"
+LOCAL14="Sistem"
+LOCAL15="User"
+LOCAL16="Lainnya"
+LOCAL17="Tidak ada Flash Player"
+LOCAL18="Tidak ditemukan Flash Player, maaf!\n\nInstal paket 'flashplugin-nonfree' dan coba lagi."
+LOCAL19="Tidak ada Sound Mixer"
+LOCAL20="Tidak ditemukan Sound Mixer, maaf!"
+### .desktop files to be translated too
+# terminal.desktop
+# Name[id_ID]=X Terminal Emulator
+# Comment[id_ID]=Choose default Terminal Emulator
+# editor.desktop
+# Name[id_ID]=Editor teks
+# Comment[id_ID]=Pilih editor teks default
+# java.desktop
+# Name[id_ID] =
+# Comment[id_ID]=Pilih versi Java default
+# session.desktop
+# Name[id_ID]=Manajer sesi
+# Comment[id_ID]=Pilih manajer sesi default
+# terminal.desktop
+# Name[id_ID]=Emulator X Terminal
+# Comment[id_ID]=Pilih Emulator Terminal default
+# window.desktop
+# Name[id_ID]=Manajer window
+# Comment[id_ID]=Pilih manajer window default
+# cfdisk.desktop
+# GenericName[id_ID]=Editor Partisi Mode Teks
+# Comment[id_ID]=Buat, atur ulang, dan hapus partisi dalam mode teks
+# gnome-alsamixer.desktop
+# Name[id_ID]=Sound Mixer
+# Comment[id_ID]=Sound Mixer di sistem
+# florence.desktop
+# Name[id_ID]=Keyboard Virtual
+# Comment[id_ID] =
+# itweb-settings.desktop
+# Name[id_ID]=Panel Kontrol IcedTea Web
+# Comment[id_ID]=Konfigurasikan IcedTea Web (javaws dan plugin)
+# openjdk-policytool.desktop
+# Name[id_ID]=OpenJDK Java Policy Tool
+# Comment[id_ID] =
+# file-root.desktop
+# Name[id_ID]=Manajer file root
+# Comment[id_ID]=Bekerja pada file dan folder sebagai root
+# reportbug.desktop
+# Name[id_ID]=Lapor bug
+# Comment[id_ID]=Laporkan bug ke BTS Debian
+# terminal-root.desktop
+# Name[id_ID]=Terminal Root
+# Comment[id_ID]=Emulator terminal standar untuk sistem X window sebagai root
+# top.desktop
+# Name[id_ID]=
+# Comment[id_ID]=Tampilkan proses sistem
+# xkill.desktop
+# Name[id_ID]=
+# Comment[id_ID]=Hentikan program yang malfungsi
+# sparky-center.desktop
+# Name[id_ID]=
+# Comment[id_ID]=Konfigurasikan pengaturan sistem
+# disk-manager.desktop
+# Name[id_ID]=Manajer Disk
+# Comment[id_ID]=Manajemen konfigurasi filesystem
+# obconf.desktop
+# Name[id_ID]=Manajer Konfigurasi Openbox
+# Comment[id_ID]=Mengkonfigurasi dan mempersonalisasikan window manager Openbox

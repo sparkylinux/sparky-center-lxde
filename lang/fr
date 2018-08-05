@@ -1,7 +1,7 @@
 ﻿# Fichier de localisation française de Sparky Center LXDE.
 # Copyright 2016 hiver <hiver@club-internet.fr> 2016/06/05
 # Sous licence GNU GPL v2
-# Last update by pavroo 2016/06/11
+# Last update by pavroo 2018/08/05
 LOCAL1="Apparence du bureau et des applications"
 LOCAL2="Applications par défaut"
 LOCAL3="Gestion du disque"
@@ -23,75 +23,57 @@ LOCAL18="Aucun de lecteur Flash trouvé, désolé!\n\nInstallez le paquet 'flash
 LOCAL19="Pas de mixeur de son"
 LOCAL20="Aucun mixeur de son trouvé, désolé!"
 ### .desktop files to be translated too
-
 # editor.desktop
 # Name[fr_FR]=Editeur de texte
 # Comment[fr_FR]=Choisir l'éditeur de texte par défaut
-
 # java.desktop
 # Name[fr_FR]=Java
 # Comment[fr_FR]=Choisir la version Java  par défaut
-
 # session.desktop
 # Name[fr_FR]=Gestionnaire de session
 # Comment[fr_FR]=Choisir le Gestionnaire de session par défaut
-
 # terminal.desktop
 # Name[fr_FR]=Emulateur de Terminal X
 # Comment[fr_FR]=Choisir l'émulateur de Terminal X par défaut
-
 # window.desktop
 # Name[fr_FR]=Gestionnaire de fenêtres
 # Comment[fr_FR]=Choisir le Gestionnaire de fenêtres  par défaut
-
 # cfdisk.desktop
 # GenericName[fr_FR]=Editeur de partition en mode texte
 # Comment[fr_FR]=Créer, réorganiser, et détruire les partitions en mode texte
-
 # gnome-alsamixer.desktop
 # Name[fr_FR]=Mixeur de son
 # Comment[fr_FR]=Mixeur de son du système
-
 # florence.desktop
 # Name[fr_FR]=Clavier virtuel
 # Comment[fr_FR]=Clavier virtuel
-
 # itweb-settings.desktop
 # Name[fr_FR]=Panneau de contrôle de IcedTea Web
 # Comment[fr_FR]=Configurer IcedTea Web (javaws et greffon)
-
 # openjdk-policytool.desktop
 # Name[fr_FR]=Outil de stratégie OpenJDK Java
 # Comment[fr_FR]=
-
 # file-root.desktop
 # Name[fr_FR]=Gestionnaire de fichier Root
 # Comment[fr_FR]=Gérer les fichiers et répertoires en mode Root
-
 # reportbug.desktop
 # Name[fr_FR]=Rapport d'erreurs
 # Comment[fr_FR]=Rapporter des erreurs au Debian BTS
-
 # terminal-root.desktop
 # Name[fr_FR]=Terminal Root
 # Comment[fr_FR]=Emulateur de terminal Standard  pour le système X window en mode Root
-
 # top.desktop
 # Name[fr_FR]=
 # Comment[fr_FR]=Montre les processus du Système
-
 # xkill.desktop
 # Name[fr_FR]=
 # Comment[fr_FR]=Clore un programme qui dysfonctionne
-
 # sparky-center.desktop
 # Name[fr_FR]=
 # Comment[fr_FR]=Configurer les paramètres du système
-
 # disk-manager.desktop
 # Name[fr_FR]=Gestionnaire de disque
 # Comment[fr_FR]=Gérer la configuration du système de fichiers
-
 # obconf.desktop
 # Name[fr_FR]=Gestionnaire de configuration d'Openbox
 # Comment[fr_FR]=Configurer et personnaliser le Gestionnaire de fenêtres Openbox

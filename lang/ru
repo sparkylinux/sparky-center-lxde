@@ -1,7 +1,7 @@
 # Файл русской локализации для Sparky Center LXDE.
 # Copyright 2015 Igor Klyushnyov <inklu@yandex.ru> 2015/12/27
 # Под лицензией GNU GPL v2
-# Last update by pavroo 2016/06/11
+# Last update by pavroo 2018/08/05
 LOCAL1="Внешний вид рабочего стола и приложений"
 LOCAL2="Приложения по умолчанию"
 LOCAL3="Управление дисками"
@@ -23,75 +23,57 @@ LOCAL18="Простите, не найден Flash плеер!\n\nУстанов
 LOCAL19="Отсутствует звуковой микшер"
 LOCAL20="Простите, звуковой микшер не найден!"
 ### .desktop files to be translated too
-
 # editor.desktop
 # Name[ru_RU]=Текстовый редактор
 # Comment[ru_RU]=Выберите текстовый редактор по умолчанию
-
 # java.desktop
 # Name[ru_RU]=
 # Comment[ru_RU]=Выберите версию Java по умолчанию
-
 # session.desktop
 # Name[ru_RU]=Менеджер сессии
 # Comment[ru_RU]=Выберите менеджер сессии по умолчанию
-
 # terminal.desktop
 # Name[ru_RU]=Эмулятор X-терминала
 # Comment[ru_RU]=Выберите эмулятор терминала по умолчанию
-
 # window.desktop
 # Name[ru_RU]=Менеджер окон
 # Comment[ru_RU]=Выберите менеджер окон по умолчанию
-
 # cfdisk.desktop
 # GenericName[ru_RU]=Редактор разделов в текстовом режиме
 # Comment[ru_RU]=Создание, преобразование и удаление разделов в текстовом режиме
-
 # gnome-alsamixer.desktop
 # Name[ru_RU]=Звуковой микшер
 # Comment[ru_RU]=Системный звуковой микшер
-
 # florence.desktop
 # Name[ru_RU]=Виртуальная клавиатура
 # Comment[ru_RU]=
-
 # itweb-settings.desktop
 # Name[ru_RU]=Панель управления IcedTea Web
 # Comment[ru_RU]=Настройка IcedTea Web (javaws и дополнения)
-
 # openjdk-policytool.desktop
 # Name[ru_RU]=Инструмент политики OpenJDK Java
 # Comment[ru_RU]=
-
 # file-root.desktop
 # Name[ru_RU]=Файловый менеджер Root
 # Comment[ru_RU]=Работа с файлами и папками в качестве root
-
 # reportbug.desktop
 # Name[ru_RU]=Сообщить об ошибке
 # Comment[ru_RU]=Сообщить Debian BTS об ошибках
-
 # terminal-root.desktop
 # Name[ru_RU]=Root-терминал
 # Comment[ru_RU]=Стандартный эмулятор терминала для системы X window в качестве root
-
 # top.desktop
 # Name[ru_RU]=
 # Comment[ru_RU]=Отображение системных процессов
-
 # xkill.desktop
 # Name[ru_RU]=
 # Comment[ru_RU]=Завершение неисправной программы
-
 # sparky-center.desktop
 # Name[ru_RU]=
 # Comment[ru_RU]=Настройка системных параметров
-
 # disk-manager.desktop
 # Name[ru_RU]=Диспетчер дисков
 # Comment[ru_RU]=Управление конфигурацией файловой системы
-
 # obconf.desktop
 # Name[ru_RU]=Менеджер настройки Openbox
 # Comment[ru_RU]=Настройка Openbox
