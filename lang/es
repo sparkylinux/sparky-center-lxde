@@ -1,27 +1,28 @@
 # Archivo de localización en español para Sparky Center LXDE.
 # Copyright 2015 Fernando "seacat" Velo <seacat.linux@gmail.com> 2015/12/27
 # Bajo la licencia GNU GPL v2
-# Last update by pavroo 2018/08/05
-LOCAL1="Apariencia del escritorio y aplicaciones"
-LOCAL2="Aplicaciones predeterminadas"
-LOCAL3="Administración del disco"
-LOCAL4="Administración del hardware"
-LOCAL5="Administración del software"
-LOCAL6="Configuración del sistema"
-LOCAL7="Configuración de usuarios del sistema"
-LOCAL8="Otras configuraciones"
-LOCAL9="Apariencia"
-LOCAL10="Predeterminado"
-LOCAL11="Disco"
-LOCAL12="Hardware"
-LOCAL13="Software"
-LOCAL14="Sistema"
-LOCAL15="Usuarios"
-LOCAL16="Otros"
-LOCAL17="Sin reproductor Flash"
-LOCAL18="No se encontró el reproductor de Flash, lo siento.\n\nInstale el paquete 'flashplugin-nonfree' e inténtelo nuevamente."
-LOCAL19="Sin mezclador de sonido"
-LOCAL20="No se encontró el mezclador de sonido, lo siento."
+#
+# Last update 2018/10/28 by SteveMoto
+LOCAL_TAB_1_1="Apariencia"
+LOCAL_TAB_1_2="Apariencia del escritorio y aplicaciones"
+LOCAL_TAB_2_1="Predeterminado"
+LOCAL_TAB_2_2="Aplicaciones predeterminadas"
+LOCAL_TAB_3_1="Disco"
+LOCAL_TAB_3_2="Administración del disco"
+LOCAL_TAB_4_1="Hardware"
+LOCAL_TAB_4_2="Administración del hardware"
+LOCAL_TAB_5_1="Software"
+LOCAL_TAB_5_2="Administración del software"
+LOCAL_TAB_6_1="Sistema"
+LOCAL_TAB_6_2="Configuración del sistema"
+LOCAL_TAB_7_1="Usuarios"
+LOCAL_TAB_7_2="Configuración de usuarios del sistema"
+LOCAL_TAB_8_1="Otros"
+LOCAL_TAB_8_2="Otras configuraciones"
+LOCAL_MESSAGE_1_1="Sin reproductor Flash"
+LOCAL_MESSAGE_1_2="No se encontró el reproductor de Flash, lo siento.\n\nInstale el paquete 'flashplugin-nonfree' e inténtelo nuevamente."
+LOCAL_MESSAGE_2_1="Sin mezclador de sonido"
+LOCAL_MESSAGE_2_2="No se encontró el mezclador de sonido, lo siento."
 ### .desktop files to be translated too
 # editor.desktop
 # Name[es_AR]=Editor de texto

@@ -1,27 +1,28 @@
 # Arquivo de localização para Portugues de Portugal do Sparky Center LXDE.
 # Copyright 2016 Joel Chaves "Flacc" <joel_chaves@icloud.com> Sunday 31 January 12:45:25 WET 2016
 # Sob a Licença GNU GPL v2
-# Last update by pavroo 2018/08/05
-LOCAL1="Definições de visualização do ambiente de trabalho e as aplicações"
-LOCAL2="Aplicações por omissão"
-LOCAL3="Gestão do disco"
-LOCAL4="Gestão de Hardware"
-LOCAL5="Gestão de Programas"
-LOCAL6="Definições de sistema"
-LOCAL7="Definições de utilizadores do sistema"
-LOCAL8="Outras definições"
-LOCAL9="Aparência"
-LOCAL10="Padrão (Omissão),(Default)"
-LOCAL11="Disco"
-LOCAL12="Hardware"
-LOCAL13="Programas"
-LOCAL14="Sistema"
-LOCAL15="Utilizadores"
-LOCAL16="Outros"
-LOCAL17="Sem Flash Player"
-LOCAL18="Nenhum Flash Player encontrado, lamentamos!\n\nInstale o pacote 'flashplugin-nonfree' e tente novamente."
-LOCAL19="Sem Sound Mixer"
-LOCAL20="Nenhum sound mixer encontrado no sistema, lamentamos!"
+#
+# Last update 2018/10/28 by SteveMoto
+LOCAL_TAB_1_1="Aparência"
+LOCAL_TAB_1_2="Definições de visualização do ambiente de trabalho e as aplicações"
+LOCAL_TAB_2_1="Padrão (Omissão),(Default)"
+LOCAL_TAB_2_2="Aplicações por omissão"
+LOCAL_TAB_3_1="Disco"
+LOCAL_TAB_3_2="Gestão do disco"
+LOCAL_TAB_4_1="Hardware"
+LOCAL_TAB_4_2="Gestão de Hardware"
+LOCAL_TAB_5_1="Programas"
+LOCAL_TAB_5_2="Gestão de Programas"
+LOCAL_TAB_6_1="Sistema"
+LOCAL_TAB_6_2="Definições de sistema"
+LOCAL_TAB_7_1="Utilizadores"
+LOCAL_TAB_7_2="Definições de utilizadores do sistema"
+LOCAL_TAB_8_1="Outros"
+LOCAL_TAB_8_2="Outras definições"
+LOCAL_MESSAGE_1_1="Sem Flash Player"
+LOCAL_MESSAGE_1_2="Nenhum Flash Player encontrado, lamentamos!\n\nInstale o pacote 'flashplugin-nonfree' e tente novamente."
+LOCAL_MESSAGE_2_1="Sem Sound Mixer"
+LOCAL_MESSAGE_2_2="Nenhum sound mixer encontrado no sistema, lamentamos!"
 ### .desktop
 # editor.desktop
 # Name[pt_PT]=Editor de Texto

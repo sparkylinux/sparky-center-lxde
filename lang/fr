@@ -1,27 +1,28 @@
 ﻿# Fichier de localisation française de Sparky Center LXDE.
 # Copyright 2016 hiver <hiver@club-internet.fr> 2016/06/05
 # Sous licence GNU GPL v2
-# Last update by pavroo 2018/08/05
-LOCAL1="Apparence du bureau et des applications"
-LOCAL2="Applications par défaut"
-LOCAL3="Gestion du disque"
-LOCAL4="Gestion du matériel"
-LOCAL5="Gestion des logiciels"
-LOCAL6="Paramètres du système"
-LOCAL7="Paramètres des utilisateurs du système"
-LOCAL8="Autres paramètres"
-LOCAL9="Apparence"
-LOCAL10="Défaut"
-LOCAL11="Disque"
-LOCAL12="Matériel"
-LOCAL13="Logiciels"
-LOCAL14="Système"
-LOCAL15="Utilisateurs"
-LOCAL16="Autres"
-LOCAL17="Pas de lecteur Flash"
-LOCAL18="Aucun de lecteur Flash trouvé, désolé!\n\nInstallez le paquet 'flashplugin-nonfree' et essayez à nouveau."
-LOCAL19="Pas de mixeur de son"
-LOCAL20="Aucun mixeur de son trouvé, désolé!"
+#
+# Last update 2018/10/28 by SteveMoto
+LOCAL_TAB_1_1="Apparence"
+LOCAL_TAB_1_2="Apparence du bureau et des applications"
+LOCAL_TAB_2_1="Défaut"
+LOCAL_TAB_2_2="Applications par défaut"
+LOCAL_TAB_3_1="Disque"
+LOCAL_TAB_3_2="Gestion du disque"
+LOCAL_TAB_4_1="Matériel"
+LOCAL_TAB_4_2="Gestion du matériel"
+LOCAL_TAB_5_1="Logiciels"
+LOCAL_TAB_5_2="Gestion des logiciels"
+LOCAL_TAB_6_1="Système"
+LOCAL_TAB_6_2="Paramètres du système"
+LOCAL_TAB_7_1="Utilisateurs"
+LOCAL_TAB_7_2="Paramètres des utilisateurs du système"
+LOCAL_TAB_8_1="Autres"
+LOCAL_TAB_8_2="Autres paramètres"
+LOCAL_MESSAGE_1_1="Pas de lecteur Flash"
+LOCAL_MESSAGE_1_2="Aucun de lecteur Flash trouvé, désolé!\n\nInstallez le paquet 'flashplugin-nonfree' et essayez à nouveau."
+LOCAL_MESSAGE_2_1="Pas de mixeur de son"
+LOCAL_MESSAGE_2_2="Aucun mixeur de son trouvé, désolé!"
 ### .desktop files to be translated too
 # editor.desktop
 # Name[fr_FR]=Editeur de texte

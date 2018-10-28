@@ -1,28 +1,28 @@
-#Arquivo de localização para o Português do Brasil  para o  aplicativo  Sparky Center LXDE
+# Arquivo de localização para o Português do Brasil  para o  aplicativo  Sparky Center LXDE
 # Copyright 2015 PaweÅ‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/26
 # Sob a licença GNU GPL v2
 # Traduzido por Claudio Cesar de Sá "ccs1664" <ccs1664@gmail.com> 2015/10/30
-# Last update by pavroo 2018/08/05
-LOCAL1="Detalhes visuais e aparência das aplicações e da área de trabalho (desktop)"
-LOCAL2="Aplicações Padrões"
-LOCAL3="Gerenciamento de Disco"
-LOCAL4="Gerenciamento de Hardware"
-LOCAL5="Gerenciamento das Aplicações (Software)"
-LOCAL6="Ajustes do Sistema"
-LOCAL7="Ajustes dos Usuários do Sistema"
-LOCAL8="Outros Ajustes"
-LOCAL9="Aparência"
-LOCAL10="Padrão (Default)"
-LOCAL11="Disco"
-LOCAL12="Hardware"
-LOCAL13="Aplicações (Software)"
-LOCAL14="Sistema"
-LOCAL15="Usuários"
-LOCAL16="Outros"
-LOCAL17="Ausência do Flash Player"
-LOCAL18="O Flash Player não foi encontrado, sinto muito!\n\nInstale o pacote 'flashplugin-nonfree' e tente novamente."
-LOCAL19="Sem o Mixer do Som"
-LOCAL20="O Mixer do som não foi encontrado, sinto muito!"
+# Last update 2018/10/28 by SteveMoto
+LOCAL_TAB_1_1="Aparência"
+LOCAL_TAB_1_2="Detalhes visuais e aparência das aplicações e da área de trabalho (desktop)"
+LOCAL_TAB_2_1="Padrão (Default)"
+LOCAL_TAB_2_2="Aplicações Padrões"
+LOCAL_TAB_3_1="Disco"
+LOCAL_TAB_3_2="Gerenciamento de Disco"
+LOCAL_TAB_4_1="Hardware"
+LOCAL_TAB_4_2="Gerenciamento de Hardware"
+LOCAL_TAB_5_1="Aplicações (Software)"
+LOCAL_TAB_5_2="Gerenciamento das Aplicações (Software)"
+LOCAL_TAB_6_1="Sistema"
+LOCAL_TAB_6_2="Ajustes do Sistema"
+LOCAL_TAB_7_1="Usuários"
+LOCAL_TAB_7_2="Ajustes dos Usuários do Sistema"
+LOCAL_TAB_8_1="Outros"
+LOCAL_TAB_8_2="Outros Ajustes"
+LOCAL_MESSAGE_1_1="Ausência do Flash Player"
+LOCAL_MESSAGE_1_2="O Flash Player não foi encontrado, sinto muito!\n\nInstale o pacote 'flashplugin-nonfree' e tente novamente."
+LOCAL_MESSAGE_2_1="Sem o Mixer do Som"
+LOCAL_MESSAGE_2_2="O Mixer do som não foi encontrado, sinto muito!"
 ### .desktop files to be translated too
 # editor.desktop
 # Name[pt_BR]=Editor de Texto

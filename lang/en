@@ -1,27 +1,28 @@
 # English localization file for Sparky Center LXDE.
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/26
 # Under the GNU GPL v2
-# Last update by pavroo 2018/08/05
-LOCAL1="Look and feel of the desktop and applications"
-LOCAL2="Default applications"
-LOCAL3="Disk management"
-LOCAL4="Hardware management"
-LOCAL5="Software management"
-LOCAL6="System settings"
-LOCAL7="System users settings"
-LOCAL8="Other settings"
-LOCAL9="Appearance"
-LOCAL10="Default"
-LOCAL11="Disk"
-LOCAL12="Hardware"
-LOCAL13="Software"
-LOCAL14="System"
-LOCAL15="Users"
-LOCAL16="Others"
-LOCAL17="No Flash Player"
-LOCAL18="No Flash Player found, sorry!\n\nInstall 'flashplugin-nonfree' package and try again."
-LOCAL19="No Sound Mixer"
-LOCAL20="No sound mixer found, sorry!"
+#
+# Last update 2018/10/28 by SteveMoto
+LOCAL_TAB_1_1="Appearance"
+LOCAL_TAB_1_2="Look and feel of the desktop and applications"
+LOCAL_TAB_2_1="Default"
+LOCAL_TAB_2_2="Default applications"
+LOCAL_TAB_3_1="Disk"
+LOCAL_TAB_3_2="Disk management"
+LOCAL_TAB_4_1="Hardware"
+LOCAL_TAB_4_2="Hardware management"
+LOCAL_TAB_5_1="Software"
+LOCAL_TAB_5_2="Software management"
+LOCAL_TAB_6_1="System"
+LOCAL_TAB_6_2="System settings"
+LOCAL_TAB_7_1="Users"
+LOCAL_TAB_7_2="System users settings"
+LOCAL_TAB_8_1="Others"
+LOCAL_TAB_8_2="Other settings"
+LOCAL_MESSAGE_1_1="No Flash Player"
+LOCAL_MESSAGE_1_2="No Flash Player found, sorry!\n\nInstall 'flashplugin-nonfree' package and try again."
+LOCAL_MESSAGE_2_1="No Sound Mixer"
+LOCAL_MESSAGE_2_2="No sound mixer found, sorry!"
 ### .desktop files to be translated too
 # editor.desktop
 # Name[en_US]=Text editor

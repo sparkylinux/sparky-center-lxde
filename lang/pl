@@ -2,27 +2,27 @@
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/26
 # Under the GNU GPL v2
 # Translated to Polish by pavroo
-# Last update by pavroo 2018/08/05
-LOCAL1="Wygląd pulpitu i aplikacji"
-LOCAL2="Domyślne aplikacje"
-LOCAL3="Zarządzanie dyskiem"
-LOCAL4="Zarządzanie sprzętem"
-LOCAL5="Zarządzanie pakietami"
-LOCAL6="Ustawienia systemowe"
-LOCAL7="Ustawienia użytkowników systemu"
-LOCAL8="Inne ustawienia"
-LOCAL9="Wygląd"
-LOCAL10="Domyślne"
-LOCAL11="Dysk"
-LOCAL12="Sprzęt"
-LOCAL13="Programy"
-LOCAL14="System"
-LOCAL15="Użytkownicy"
-LOCAL16="Inne"
-LOCAL17="Brak Flash Playera"
-LOCAL18="Nie znaleziono Flash Playera!\n\nZainstaluj pakiet 'flashplugin-nonfree' i spróbuj ponownie."
-LOCAL19="Brak Miksera Dźwięku"
-LOCAL20="Nie znaleziono miksera dźwięku!"
+# Last update 2018/10/28 by SteveMoto
+LOCAL_TAB_1_1="Wygląd"
+LOCAL_TAB_1_2="Wygląd pulpitu i aplikacji"
+LOCAL_TAB_2_1="Domyślne"
+LOCAL_TAB_2_2="Domyślne aplikacje"
+LOCAL_TAB_3_1="Dysk"
+LOCAL_TAB_3_2="Zarządzanie dyskiem"
+LOCAL_TAB_4_1="Sprzęt"
+LOCAL_TAB_4_2="Zarządzanie sprzętem"
+LOCAL_TAB_5_1="Programy"
+LOCAL_TAB_5_2="Zarządzanie pakietami"
+LOCAL_TAB_6_1="System"
+LOCAL_TAB_6_2="Ustawienia systemowe"
+LOCAL_TAB_7_1="Użytkownicy"
+LOCAL_TAB_7_2="Ustawienia użytkowników systemu"
+LOCAL_TAB_8_1="Inne"
+LOCAL_TAB_8_2="Inne ustawienia"
+LOCAL_MESSAGE_1_1="Brak Flash Playera"
+LOCAL_MESSAGE_1_2="Nie znaleziono Flash Playera!\n\nZainstaluj pakiet 'flashplugin-nonfree' i spróbuj ponownie."
+LOCAL_MESSAGE_2_1="Brak Miksera Dźwięku"
+LOCAL_MESSAGE_2_2="Nie znaleziono miksera dźwięku!"
 ### .desktop files, również do przetłumaczenia
 # editor.desktop
 # Name[pl_PL]=Edytor tekstu

@@ -1,27 +1,28 @@
 # File di localizzazione in italiano per Sparky Center LXDE.
 # Copyright 2015 Carlo, "malato" Troiani <abbassolafrangetta@gmail.com> 26/10/2015
 # Rilasciato sotto licenza GNU GPL v2
-# Last update by pavroo 2018/08/05
-LOCAL1="Aspetto e comportamento del desktop e delle applicazioni"
-LOCAL2="Applicazioni predefinite"
-LOCAL3="Gestione dei Dischi"
-LOCAL4="Gestione dell'Hardware"
-LOCAL5="Gestione del Software"
-LOCAL6="Impostazioni di sistema"
-LOCAL7="Impostazioni di sistema dell'utente"
-LOCAL8="Altre impostazioni"
-LOCAL9="Aspetto"
-LOCAL10="Default"
-LOCAL11="Dischi"
-LOCAL12="Hardware"
-LOCAL13="Software"
-LOCAL14="Sistema"
-LOCAL15="Utenti"
-LOCAL16="Altri"
-LOCAL17="No Flash Player"
-LOCAL18="Flash Player non trovato, spiacente!\n\nInstalla il pacchetto 'flashplugin-nonfree'e prova di nuovo."
-LOCAL19="Sound Mixer non trovato"
-LOCAL20="Sound mixer non trovato, spiacente!"
+#
+# Last update 2018/10/28 by SteveMoto
+LOCAL_TAB_1_1="Aspetto"
+LOCAL_TAB_1_2="Aspetto e comportamento del desktop e delle applicazioni"
+LOCAL_TAB_2_1="Default"
+LOCAL_TAB_2_2="Applicazioni predefinite"
+LOCAL_TAB_3_1="Dischi"
+LOCAL_TAB_3_2="Gestione dei Dischi"
+LOCAL_TAB_4_1="Hardware"
+LOCAL_TAB_4_2="Gestione dell'Hardware"
+LOCAL_TAB_5_1="Software"
+LOCAL_TAB_5_2="Gestione del Software"
+LOCAL_TAB_6_1="Sistema"
+LOCAL_TAB_6_2="Impostazioni di sistema"
+LOCAL_TAB_7_1="Utenti"
+LOCAL_TAB_7_2="Impostazioni di sistema dell'utente"
+LOCAL_TAB_8_1="Altri"
+LOCAL_TAB_8_2="Altre impostazioni"
+LOCAL_MESSAGE_1_1="No Flash Player"
+LOCAL_MESSAGE_1_2="Flash Player non trovato, spiacente!\n\nInstalla il pacchetto 'flashplugin-nonfree'e prova di nuovo."
+LOCAL_MESSAGE_2_1="Sound Mixer non trovato"
+LOCAL_MESSAGE_2_2="Sound mixer non trovato, spiacente!"
 ### .desktop files to be translated too
 # editor.desktop
 # Name[it_IT]=Editor di Testo

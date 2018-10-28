@@ -4,7 +4,7 @@
 # which one is installed
 # Created by Paweł "pavroo' Pijanowski 2015/03/19
 # Copyright 2015-2018 under the GNU GPL2 License
-# Last update 2018/08/05
+# Last update 2018/10/28 by SteveMoto
 
 # get default's locale file
 DEFLOCDIR="/usr/share/sparky/sparky-aptus"
@@ -32,7 +32,7 @@ fi
 
 DIALOG="yad --window-icon=multimedia-volume-control --width=450 --height=200 --center"
 TITLE="--always-print-result --dialog-sep --image=multimedia-volume-control --title="
-TITLETEXT="$LOCAL19"
+TITLETEXT="$LOCAL_MESSAGE_2_1"
 MSGBOX=" --button=Ok:0 "
 TEXT="--text="
 if [ -f /usr/bin/sparky-xterm ];then
@@ -49,7 +49,7 @@ elif [ -f /usr/bin/gnome-alsamixer ]; then
 elif [ -f /usr/bin/alsamixer ]; then
 	$SPARKYXTERM /usr/bin/alsamixer
 else
-	$DIALOG $TITLE"$TITLETEXT" $MSGBOX $TEXT"$LOCAL20"
+	$DIALOG $TITLE"$TITLETEXT" $MSGBOX $TEXT"$LOCAL_MESSAGE_2_2"
 	exit 0
 fi
 

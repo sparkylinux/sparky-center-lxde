@@ -1,28 +1,28 @@
 # Indonesian localization file for Sparky Center LXDE.
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/26
 # Under the GNU GPL v2
-# Last update by pavroo 2018/08/05
 # Translated to Indonesian by les kompie
-LOCAL1="Tampilan dan nuansa desktop dan aplikasi"
-LOCAL2="Aplikasi default"
-LOCAL3="Manajemen disk"
-LOCAL4="Manajemen hardware"
-LOCAL5="Manajemen software"
-LOCAL6="Pengaturan sistem"
-LOCAL7="Pengaturan user sistem"
-LOCAL8="Pengaturan lain"
-LOCAL9="Penampilan"
-LOCAL10="Default"
-LOCAL11="Disk"
-LOCAL12="Hardware"
-LOCAL13="Software"
-LOCAL14="Sistem"
-LOCAL15="User"
-LOCAL16="Lainnya"
-LOCAL17="Tidak ada Flash Player"
-LOCAL18="Tidak ditemukan Flash Player, maaf!\n\nInstal paket 'flashplugin-nonfree' dan coba lagi."
-LOCAL19="Tidak ada Sound Mixer"
-LOCAL20="Tidak ditemukan Sound Mixer, maaf!"
+# Last update 2018/10/28 by SteveMoto
+LOCAL_TAB_1_1="Penampilan"
+LOCAL_TAB_1_2="Tampilan dan nuansa desktop dan aplikasi"
+LOCAL_TAB_2_1="Default"
+LOCAL_TAB_2_2="Aplikasi default"
+LOCAL_TAB_3_1="Disk"
+LOCAL_TAB_3_2="Manajemen disk"
+LOCAL_TAB_4_1="Hardware"
+LOCAL_TAB_4_2="Manajemen hardware"
+LOCAL_TAB_5_1="Software"
+LOCAL_TAB_5_2="Manajemen software"
+LOCAL_TAB_6_1="Sistem"
+LOCAL_TAB_6_2="Pengaturan sistem"
+LOCAL_TAB_7_1="User"
+LOCAL_TAB_7_2="Pengaturan user sistem"
+LOCAL_TAB_8_1="Lainnya"
+LOCAL_TAB_8_2="Pengaturan lain"
+LOCAL_MESSAGE_1_1="Tidak ada Flash Player"
+LOCAL_MESSAGE_1_2="Tidak ditemukan Flash Player, maaf!\n\nInstal paket 'flashplugin-nonfree' dan coba lagi."
+LOCAL_MESSAGE_2_1="Tidak ada Sound Mixer"
+LOCAL_MESSAGE_2_2="Tidak ditemukan Sound Mixer, maaf!"
 ### .desktop files to be translated too
 # terminal.desktop
 # Name[id_ID]=X Terminal Emulator

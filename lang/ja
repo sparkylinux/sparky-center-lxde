@@ -1,28 +1,28 @@
 # Japanese localization file for Sparky Center LXDE.
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/26
 # Under the GNU GPL v2
-# Last update by pavroo 2018/08/05
 # Translated to Japanese by BALLOON a.k.a. Fu-sen.
-LOCAL1="デスクトップ・アプリケーションの外見"
-LOCAL2="デフォルトアプリケーション"
-LOCAL3="ディスク管理"
-LOCAL4="ハードウェア管理"
-LOCAL5="ソフトウェア管理"
-LOCAL6="システム設定"
-LOCAL7="システムユーザー設定"
-LOCAL8="その他設定"
-LOCAL9="外観"
-LOCAL10="デフォルト"
-LOCAL11="ディスク"
-LOCAL12="ハードウェア"
-LOCAL13="ソフトウェア"
-LOCAL14="システム"
-LOCAL15="ユーザー"
-LOCAL16="その他"
-LOCAL17="Flash プレーヤーなし"
-LOCAL18="Flash プレーヤーが見つかりません、ごめんなさい！\n\n'flashplugin-nonfree' パッケージをインストールし、再度行って下さい"
-LOCAL19="サウンドミキサーなし"
-LOCAL20="サウンドミキサーが見つかりません、ごめんなさい！"
+# Last update 2018/10/28 by SteveMoto
+LOCAL_TAB_1_1="外観"
+LOCAL_TAB_1_2="デスクトップ・アプリケーションの外見"
+LOCAL_TAB_2_1="デフォルト"
+LOCAL_TAB_2_2="デフォルトアプリケーション"
+LOCAL_TAB_3_1="ディスク"
+LOCAL_TAB_3_2="ディスク管理"
+LOCAL_TAB_4_1="ハードウェア"
+LOCAL_TAB_4_2="ハードウェア管理"
+LOCAL_TAB_5_1="ソフトウェア"
+LOCAL_TAB_5_2="ソフトウェア管理"
+LOCAL_TAB_6_1="システム"
+LOCAL_TAB_6_2="システム設定"
+LOCAL_TAB_7_1="ユーザー"
+LOCAL_TAB_7_2="システムユーザー設定"
+LOCAL_TAB_8_1="その他"
+LOCAL_TAB_8_2="その他設定"
+LOCAL_MESSAGE_1_1="Flash プレーヤーなし"
+LOCAL_MESSAGE_1_2="Flash プレーヤーが見つかりません、ごめんなさい！\n\n'flashplugin-nonfree' パッケージをインストールし、再度行って下さい"
+LOCAL_MESSAGE_2_1="サウンドミキサーなし"
+LOCAL_MESSAGE_2_2="サウンドミキサーが見つかりません、ごめんなさい！"
 ### .desktop files to be translated too
 # editor.desktop
 # Name[ja_JP]=テキストエディタ
