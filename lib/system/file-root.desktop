@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Root file manager
+Name[el]=Διαχειριστής αρχείων με δικαιώματα διαχειριστή
 Name[es]=Administrador de archivos como Root
 Name[fr]=Gestionnaire de fichier Root
 Name[id]=Manajer file root
@@ -10,6 +11,7 @@ Name[pt_BR]=Gerenciador de Arquivos em Modo Root
 Name[pt_PT]=Gestor de fecheiros ROOT
 Name[ru]=Файловый менеджер Root
 Comment=Work on files and folders as root
+Comment[el]=Επεξεργασία αρχείων και φακέλων με δικαιώματα διαχειριστή
 Comment[es]=Trabaje con archivos y carpetas como el root
 Comment[fr]=Gérer les fichiers et répertoires en mode Root
 Comment[id]=Bekerja pada file dan folder sebagai root

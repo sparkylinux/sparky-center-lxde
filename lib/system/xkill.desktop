@@ -2,6 +2,7 @@
 Encoding=UTF-8
 Name=X-Kill
 Comment=Terminate a Malfunctioning Program
+Comment[el]=Τερματισμός μιας εφαρμογής που δεν ανταποκρίνεται
 Comment[es]=Termine un programa que funciona mal
 Comment[fr]=Clore un programme qui dysfonctionne
 Comment[id]=Hentikan program yang malfungsi

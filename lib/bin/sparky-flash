@@ -4,11 +4,13 @@
 # if it is installed
 # Created by Paweł "pavroo' Pijanowski 2015/07/16
 # Copyright 2015-2019 under the GNU GPL2 License
-# Last update 2019/10/19
+# Last update 2019/11/27
 
 # get default's locale file
 DEFLOCDIR="/usr/share/sparky/sparky-center-lxde"
-if [ "`cat /etc/default/locale | grep es`" != "" ]; then
+if [ "`cat /etc/default/locale | grep el`" != "" ]; then
+. $DEFLOCDIR/el
+elif [ "`cat /etc/default/locale | grep es`" != "" ]; then
 . $DEFLOCDIR/es
 elif [ "`cat /etc/default/locale | grep fr`" != "" ]; then
 . $DEFLOCDIR/fr
@@ -22,7 +24,7 @@ elif [ "`cat /etc/default/locale | grep ja`" != "" ]; then
 . $DEFLOCDIR/ja
 elif [ "`cat /etc/default/locale | grep pl`" != "" ]; then
 . $DEFLOCDIR/pl
-elif [ "`cat /etc/default/locale | grep pt`" != "" ]; then
+elif [ "`cat /etc/default/locale | grep pt_BR`" != "" ]; then
 . $DEFLOCDIR/pt_BR
 elif [ "`cat /etc/default/locale | grep pt_PT`" != "" ]; then
 . $DEFLOCDIR/pt_PT

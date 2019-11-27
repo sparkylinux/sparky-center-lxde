@@ -2,6 +2,7 @@
 Type=Application
 Name=Java
 Comment=Choose default Java version
+Comment[el]=Επιλέξτε έκδοση java για προεπιλογή
 Comment[es]=Elija la versión de Java predeterminada
 Comment[fr]=Choisir la version Java  par défaut
 Comment[id]=Pilih versi Java default

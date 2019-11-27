@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=X Terminal Emulator
+Name[el]=Εικονικό Τερματικό
 Name[es]=Emulador de terminal X
 Name[fr]=Emulateur de Terminal X
 Name[id]=Emulator X Terminal
@@ -10,6 +11,7 @@ Name[pt_PT]=Emulator do Terminal-X
 Name[pt_PT]=X Terminal Emulator
 Name[ru]=Эмулятор X-терминала
 Comment=Choose default Terminal Emulator
+Comment[el]=Επιλέξτε εικονικό τερματικό για προεπιλογή
 Comment[es]=Elija el emulador de terminal predeterminado
 Comment[fr]=Choisir l'émulateur de Terminal X par défaut
 Comment[id]=Pilih Emulator Terminal default

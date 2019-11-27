@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Sound Mixer
+Name[el]=Μείκτης ήχου
 Name[es]=Mezclador de sonido
 Name[fr]=Mixeur de son
 Name[id]=Sound Mixer
@@ -9,6 +10,7 @@ Name[pt_BR]=Mixer do Som
 Name[pt_PT]=Misturador de audio
 Name[ru]=Звуковой микшер
 Comment=Sound mixer of the system
+Comment[el]=Μείκτης ήχου του συστήματος
 Comment[es]=Mezclador de sonido
 Comment[fr]=Mixeur de son du système
 Comment[id]=Sound Mixer di sistem

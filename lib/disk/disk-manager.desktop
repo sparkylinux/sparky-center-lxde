@@ -2,6 +2,7 @@
 Version=1.0
 Name=Disk Manager
 Name[de]=Geräte Verwaltung
+Name[el]=Διαχείριση δίσκου
 Name[es]=Administrador de disco
 Name[fr]=Gestionnaire de disque
 Name[id]=Manajer Disk
@@ -16,6 +17,7 @@ Name[sv]=Diskhanterare
 Name[zh_CN]=磁盘管理器
 Comment=Manage filesystem configuration
 Comment[de]=Verwalte Dateisystem Konfiguration
+Comment[el]=Διαχείριση ρυθμίσεων του συστήματος αρχείων
 Comment[es]=Administra la configuración del sistema de archivos
 Comment[fr]=Gère la configuration du système de fichier
 Comment[id]=Manajemen konfigurasi filesystem

@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Text editor
+Name[el]=Επεξεργαστής κειμένου
 Name[es]=Editor de texto
 Name[fr]=Editeur de texte
 Name[id]=Editor teks
@@ -11,6 +12,7 @@ Name[pt_BR]=Editor de Texto
 Name[pt_PT]=Editor de Texto
 Name[ru]=Текстовый редактор
 Comment=Choose default text editor
+Comment[el]=Επιλέξτε επεξεργαστή κειμένου για προεπιλογή
 Comment[es]=Elija el editor de texto predeterminado
 Comment[fr]=Choisir l'éditeur de texte par défaut
 Comment[id]=Pilih editor teks default

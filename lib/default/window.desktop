@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Window manager
+Name[el]=Διαχειριστής Παραθύρων
 Name[es]=Administrador de Ventanas
 Name[fr]=Gestionnaire de fenêtres
 Name[id]=Manajer window
@@ -11,6 +12,7 @@ Name[pt_BR]=Gerenciador de Janela
 Name[pt_PT]=Gestor de janelas
 Name[ru]=Менеджер окон
 Comment=Choose default window manager
+Comment[el]=Επιλέξτε διαχειριστή παραθύρων για προεπιλογή
 Comment[es]=Elija el administrador de ventanas predeterminado
 Comment[fr]=Choisir le Gestionnaire de fenêtres  par défaut
 Comment[id]=Pilih manajer window default

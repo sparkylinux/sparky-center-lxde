@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Cfdisk
 GenericName=Text Mode Partition Editor
+GenericName[el]=Επεξεργαστής κατατμήσεων στο τερματικό
 GenericName[es]=Editor de particiones en modo texto
 GenericName[fr]=Editeur de partition en mode texte
 GenericName[id]=Editor Partisi Mode Teks
@@ -11,6 +12,7 @@ GenericName[pt_BR]=Editor de Partição em Modo Texto
 GenericName[pt_PT]=Editor em modo de Texto do gestor Partições
 GenericName[ru]=Редактор разделов в текстовом режиме
 Comment=Create, reorganize, and delete partitions in text mode
+Comment[el]=Δημιουργήστε, οργανώστε και διαγράψτε κατατμήσεις από το τερματικό
 Comment[es]=Cree, reorganice y elimine particiones en modo texto
 Comment[fr]=Créer, réorganiser, et détruire les partitions en mode texte
 Comment[id]=Buat, atur ulang, dan hapus partisi dalam mode teks

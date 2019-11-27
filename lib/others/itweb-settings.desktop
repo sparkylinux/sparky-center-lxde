@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=IcedTea Web Control Panel
+Name[el]=Κέντρο ελέγχου IcedTea Web
 Name[es]=Panel de Control de IcedTea Web
 Name[fr]=Panneau de contrôle de IcedTea Web
 Name[id]=Panel Kontrol IcedTea Web
@@ -10,6 +11,7 @@ Name[pt_BR]=Painel de Controle do IcedTea Web
 Name[pt_PT]=Painel de Controlo Web IcedTea
 Name[ru]=Панель управления IcedTea Web
 Comment=Configure IcedTea Web (javaws and plugin)
+Comment[el]=Ρυθμίσεις του IcedTea Web (javaws και plugin)
 Comment[es]=Configure IcedTea Web (javaws y complemento)
 Comment[fr]=Configurer IcedTea Web (javaws et greffon)
 Comment[id]=Konfigurasikan IcedTea Web (javaws dan plugin)

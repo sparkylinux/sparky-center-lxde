@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Session manager
+Name[el]=Διαχειριστής συνεδρίας
 Name[es]=Administrador de sesiones
 Name[fr]=Gestionnaire de session
 Name[id]=Manajer sesi
@@ -11,6 +12,7 @@ Name[pt_BR]=Gerenciador de Sessão
 Name[pt_PT]=Gestor de sessões
 Name[ru]=Менеджер сессии
 Comment=Choose default session manager
+Comment[el]=Επιλέξτε διαχειριστή συνεδρίας για προεπιλογή
 Comment[es]=Elija el administrador de sesiones predeterminado
 Comment[fr]=Choisir le Gestionnaire de session par défaut
 Comment[id]=Pilih manajer sesi default

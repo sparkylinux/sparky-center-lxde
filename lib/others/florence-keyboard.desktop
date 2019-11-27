@@ -2,6 +2,7 @@
 Version=1.0
 Type=Application
 Name=Virtual Keyboard
+Name[el]=Εικονικό πληκτρολόγιο
 Name[es]=Teclado virtual
 Name[fr]=Clavier virtuel
 Name[id]=Keyboard Virtual
@@ -12,6 +13,7 @@ Name[pt_BR]=Teclado Virtual
 Name[pt_PT]=Teclado virtual
 Name[ru]=Виртуальная клавиатура
 Comment=Virtual keyboard
+Comment[el]=Εικονικό πληκτρολόγιο
 Comment[es]=Teclado virtual
 Comment[fr]=Clavier virtuel
 Comment[id]=Keyboard Virtual

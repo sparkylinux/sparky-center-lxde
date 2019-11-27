@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=OpenJDK Java Policy Tool
+Name[el]=Εφαρμογή πολιτικών του OpenJDK Java
 Name[es]=Herramienta de políticas de OpenJDK Java
 Name[fi]=OpenJDK Java - käytäntötyökalu
 Name[fr]=Outil de stratégie OpenJDK Java
@@ -9,6 +10,7 @@ Name[pt_BR]=Ferramenta de Políticas do OpenJDK Java
 Name[pt_PT]=Definições do OpenJDK Java
 Name[ru]=Инструмент политики OpenJDK Java
 Comment=OpenJDK Java Policy Tool
+Comment[el]=Εφαρμογή πολιτικών του OpenJDK Java
 Comment[es]=Herramienta de la política de OpenJDK Java
 Comment[fr]=Outil de stratégie OpenJDK Java
 Comment[fi]=OpenJDK Java - käytäntötyökalu
