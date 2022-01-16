@@ -1,0 +1,69 @@
+#!/bin/bash
+
+# Last update 2018/05/29
+
+testroot="`whoami`"
+if [ "$testroot" != "root" ]
+then
+	echo "Must be root... Exiting now..."
+	exit 1
+fi
+
+if [ -f /usr/bin/sparky-xterm ];then
+	SPARKYXTERM="/usr/bin/sparky-xterm"
+else
+	echo "sparky-xterm is missing... Exiting..."
+	exit 1
+fi
+
+if [ "$1" = "editor" ]; then
+	$SPARKYXTERM "update-alternatives --config gnome-text-editor"
+
+elif [ "$1" = "java-default" ]; then
+	if [ -d /usr/share/doc/default-jre ]; then
+		$SPARKYXTERM "update-alternatives --config java"
+	else
+		xmessage "default-jre package is NOT installed. Exiting now..."
+		exit 1
+	fi
+
+elif [ "$1" = "session" ]; then
+	$SPARKYXTERM "update-alternatives --config x-session-manager"
+
+elif [ "$1" = "terminal" ]; then
+	$SPARKYXTERM "update-alternatives --config x-terminal-emulator"
+
+elif [ "$1" = "window" ]; then
+	$SPARKYXTERM "update-alternatives --config x-window-manager"
+
+elif [ "$1" = "cfdisk" ]; then
+	$SPARKYXTERM "cfdisk"
+
+elif [ "$1" = "disk-manager" ]; then
+	disk-manager
+
+elif [ "$1" = "pcmanfm" ]; then
+	pcmanfm
+
+elif [ "$1" = "sparky-terminal" ]; then
+	x-terminal-emulator
+
+elif [ "$1" = "openjdk" ]; then
+	if [ -f /usr/bin/policytool ]; then
+		/usr/bin/policytool
+	else
+		xmessage "openjdk-8-jre package is NOT installed. Exiting now..."
+		exit 1
+	fi
+
+elif [ "$1" = "icedtea" ]; then
+	if [ -f /usr/bin/itweb-settings ]; then
+		/usr/bin/itweb-settings
+	else
+		xmessage "icedtea-netx package is NOT installed. Exiting now..."
+		exit 1
+	fi
+
+fi
+
+exit 0

@@ -1,0 +1,79 @@
+# Greek localization file for Sparky Center LXDE.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/26
+# Under the GNU GPL v2
+# Last update by jidan 2019/11/06
+LOCAL1="Εμφάνιση και αισθητική της επιφάνειας εργασίας και των εφαρμογών"
+LOCAL2="Προεπιλεγμένες εφαρμογές"
+LOCAL3="Διαχείριση δίσκου"
+LOCAL4="Διαχείριση υλικού"
+LOCAL5="Διαχείριση λογισμικού"
+LOCAL6="Ρυθμίσεις συστήματος"
+LOCAL7="Ρυθμίσεις χρηστών συστήματος"
+LOCAL8="Άλλες ρυθμίσεις"
+LOCAL9="Εμφάνιση"
+LOCAL10="Προεπιλεγμένη"
+LOCAL11="Δίσκος"
+LOCAL12="Υλικό"
+LOCAL13="Λογισμικό"
+LOCAL14="Σύστημα"
+LOCAL15="Χρήστες"
+LOCAL16="Άλλα"
+LOCAL17="Όχι Flash Player"
+LOCAL18="Δυστυχώς δεν εντοπίστηκε ο Flash Player!\n\nΕγκαταστήστε το πακέτο 'flashplugin-nonfree' και δοκιμάστε ξανά."
+LOCAL19="Όχι Μείκτης Ήχου"
+LOCAL20="Δυστυχώς δεν εντοπίστηκε ο μείκτης ήχου!"
+### .desktop files to be translated too
+# editor.desktop
+# Name[el_GR]=Επεξεργαστής κειμένου
+# Comment[el_GR]=Επιλέξτε επεξεργαστή κειμένου για προεπιλογή
+# java.desktop
+# Name[el_GR]=
+# Comment[el_GR]=Επιλέξτε έκδοση java για προεπιλογή
+# session.desktop
+# Name[el_GR]=Διαχειριστής συνεδρίας
+# Comment[el_GR]=Επιλέξτε διαχειριστή συνεδρίας για προεπιλογή
+# terminal.desktop
+# Name[el_GR]=Εικονικό Τερματικό
+# Comment[el_GR]=Επιλέξτε εικονικό τερματικό για προεπιλογή
+# window.desktop
+# Name[el_GR]=Διαχειριστής Παραθύρων
+# Comment[el_GR]=Επιλέξτε διαχειριστή παραθύρων για προεπιλογή
+# cfdisk.desktop
+# GenericName[el_GR]=Επεξεργαστής κατατμήσεων στο τερματικό
+# Comment[el_GR]=Δημιουργήστε, οργανώστε και διαγράψτε κατατμήσεις από το τερματικό
+# gnome-alsamixer.desktop
+# Name[el_GR]=Μείκτης ήχου
+# Comment[el_GR]=Μείκτης ήχου του συστήματος
+# florence.desktop
+# Name[el_GR]=Εικονικό πληκτρολόγιο
+# Comment[el_GR]=
+# itweb-settings.desktop
+# Name[el_GR]=Κέντρο ελέγχου IcedTea Web
+# Comment[el_GR]=Ρυθμίσεις του IcedTea Web (javaws και plugin)
+# openjdk-policytool.desktop
+# Name[el_GR]=Εφαρμογή πολιτικών του OpenJDK Java
+# Comment[el_GR]=
+# file-root.desktop
+# Name[el_GR]=Διαχειριστής αρχείων με δικαιώματα διαχειριστή
+# Comment[el_GR]=Επεξεργασία αρχείων και φακέλων με δικαιώματα διαχειριστή
+# reportbug.desktop
+# Name[el_GR]=Αναφορά σφαλμάτων
+# Comment[el_GR]=Αναφορά σφαλμάτων στο Debian BTS
+# terminal-root.desktop
+# Name[el_GR]=Τερματικό με δικαιώματα διαχειριστή
+# Comment[el_GR]=Κανονικό εικονικό τερματικό για το σύστημα X Window με δικαιώματα διαχειριστή
+# top.desktop
+# Name[el_GR]=
+# Comment[el_GR]=Επισκόπηση των εργασιών του συστήματος
+# xkill.desktop
+# Name[el_GR]=
+# Comment[el_GR]=Τερματισμός μιας εφαρμογής που δεν ανταποκρίνεται
+# sparky-center.desktop
+# Name[el_GR]=
+# Comment[el_GR]=Ρυθμίσεις συστήματος
+# disk-manager.desktop
+# Name[el_GR]=Διαχείριση δίσκου
+# Comment[el_GR]=Διαχείριση ρυθμίσεων του συστήματος αρχείων
+# obconf.desktop
+# Name[el_GR]=Διαχείριση ρυθμίσεων του Openbox
+# Comment[el_GR]=Ρυθμίσεις και προσαρμογές του διαχειριστή παραθύρων Openbox

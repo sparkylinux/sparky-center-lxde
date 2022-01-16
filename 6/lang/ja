@@ -1,0 +1,80 @@
+# Japanese localization file for Sparky Center LXDE.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/26
+# Under the GNU GPL v2
+# Last update by pavroo 2018/08/05
+# Translated to Japanese by BALLOON a.k.a. Fu-sen.
+LOCAL1="デスクトップ・アプリケーションの外見"
+LOCAL2="デフォルトアプリケーション"
+LOCAL3="ディスク管理"
+LOCAL4="ハードウェア管理"
+LOCAL5="ソフトウェア管理"
+LOCAL6="システム設定"
+LOCAL7="システムユーザー設定"
+LOCAL8="その他設定"
+LOCAL9="外観"
+LOCAL10="デフォルト"
+LOCAL11="ディスク"
+LOCAL12="ハードウェア"
+LOCAL13="ソフトウェア"
+LOCAL14="システム"
+LOCAL15="ユーザー"
+LOCAL16="その他"
+LOCAL17="Flash プレーヤーなし"
+LOCAL18="Flash プレーヤーが見つかりません、ごめんなさい！\n\n'flashplugin-nonfree' パッケージをインストールし、再度行って下さい"
+LOCAL19="サウンドミキサーなし"
+LOCAL20="サウンドミキサーが見つかりません、ごめんなさい！"
+### .desktop files to be translated too
+# editor.desktop
+# Name[ja_JP]=テキストエディタ
+# Comment[ja_JP]=デフォルトテキストエディタの選択
+# java.desktop
+# Name[ja_JP]=
+# Comment[ja_JP]=デフォルト Java バージョンの選択
+# session.desktop
+# Name[ja_JP]=セッションマネージャー
+# Comment[en_US]=デフォルトセッションマネージャーの選択
+# terminal.desktop
+# Name[ja_JP]=X ターミナルエミュレーター
+# Comment[ja_JP]=デフォルトターミナルエミュレーターの選択
+# window.desktop
+# Name[ja_JP]=ウインドウマネージャー
+# Comment[ja_JP]=デフォルトウインドウマネージャーの選択
+# cfdisk.desktop
+# GenericName[ja_JP]=テキストモードパーティションエディタ
+# Comment[ja_JP]=テキストモードでのパーティション作成・整理・削除
+# gnome-alsamixer.desktop
+# Name[ja_JP]=サウンドミキサー
+# Comment[ja_JP]=システムのサウンドミキサー
+# florence.desktop
+# Name[ja_JP]=仮想キーボード
+# Comment[ja_JP]=
+# itweb-settings.desktop
+# Name[ja_JP]=IcedTea Web コントロールパネル
+# Comment[ja_JP]=IcedTea Web の設定 (javaws・プラグイン)
+# openjdk-policytool.desktop
+# Name[ja_JP]=OpenJDK Java ポリシーツール
+# Comment[ja_JP]=
+# file-root.desktop
+# Name[ja_JP]=Root ファイルマネージャー
+# Comment[ja_JP]=root でのファイル・フォルダ作業
+# reportbug.desktop
+# Name[ja_JP]=バグレポート
+# Comment[ja_JP]=Debian BTS へのバグ報告
+# terminal-root.desktop
+# Name[ja_JP]=管理者ターミナル
+# Comment[ja_JP]=root での X ウィンドウシステム標準ターミナルエミュレータ
+# top.desktop
+# Name[ja_JP]=
+# Comment[ja_JP]=システムプロセスの表示
+# xkill.desktop
+# Name[ja_JP]=
+# Comment[ja_JP]=動作不良プログラムの終了
+# sparky-center.desktop
+# Name[ja_JP]=
+# Comment[en_US]=システム設定
+# disk-manager.desktop
+# Name[ja_JP]=ディスクマネージャー
+# Comment[ja_JP]=ファイルシステム構成を管理します。
+# obconf.desktop
+# Name[ja_JP]=Openbox 構成マネージャー
+# Comment[ja_JP]=構成し、Openbox ウィンドウ マネージャーをパーソナライズ

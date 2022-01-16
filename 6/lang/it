@@ -1,0 +1,79 @@
+# File di localizzazione in italiano per Sparky Center LXDE.
+# Copyright 2015 Carlo, "malato" Troiani <abbassolafrangetta@gmail.com> 26/10/2015
+# Rilasciato sotto licenza GNU GPL v2
+# Last update by pavroo 2018/08/05
+LOCAL1="Aspetto e comportamento del desktop e delle applicazioni"
+LOCAL2="Applicazioni predefinite"
+LOCAL3="Gestione dei Dischi"
+LOCAL4="Gestione dell'Hardware"
+LOCAL5="Gestione del Software"
+LOCAL6="Impostazioni di sistema"
+LOCAL7="Impostazioni di sistema dell'utente"
+LOCAL8="Altre impostazioni"
+LOCAL9="Aspetto"
+LOCAL10="Default"
+LOCAL11="Dischi"
+LOCAL12="Hardware"
+LOCAL13="Software"
+LOCAL14="Sistema"
+LOCAL15="Utenti"
+LOCAL16="Altri"
+LOCAL17="No Flash Player"
+LOCAL18="Flash Player non trovato, spiacente!\n\nInstalla il pacchetto 'flashplugin-nonfree'e prova di nuovo."
+LOCAL19="Sound Mixer non trovato"
+LOCAL20="Sound mixer non trovato, spiacente!"
+### .desktop files to be translated too
+# editor.desktop
+# Name[it_IT]=Editor di Testo
+# Comment[it_IT]=Scegli l'editor di testo predefinito
+# java.desktop
+# Name[it_IT]=
+# Comment[it_IT]=Scegli la versione di Java di default
+# session.desktop
+# Name[it_IT]=Gestore delle Sessioni
+# Comment[it_IT]=Scegli il gestore delle sessioni predefinito
+# terminal.desktop
+# Name[it_IT]=X Terminal Emulator
+# Comment[it_IT]=Scegli l'emulatore di terminale predefinito
+# window.desktop
+# Name[it_IT]=Gestore delle finestre
+# Comment[it_IT]=Scegli il gestore delle finestre predefinito
+# cfdisk.desktop
+# GenericName[it_IT]=Editor di partizioni testuale
+# Comment[it_IT]=Crea, riorganizza, e cancella le partizioni in ambiente testuale
+# gnome-alsamixer.desktop
+# Name[it_IT]=Sound Mixer
+# Comment[it_IT]=Sound mixer per il sistema
+# florence.desktop
+# Name[it_IT]=Tastiera Virtuale
+# Comment[it_IT]=Tastiera Virtuale
+# itweb-settings.desktop
+# Name[it_IT]=Pannello di controllo di IcedTea Web
+# Comment[it_IT]=Configura IcedTea Web (javaws e plugin)
+# openjdk-policytool.desktop
+# Name[it_IT]=OpenJDK Java Policy Tool
+# Comment[it_IT]=Ambiente di esecuzione di Java, necessario per eseguire Java GUI ed i programmi Webstart
+# file-root.desktop
+# Name[it_IT]=File manager di Root
+# Comment[it_IT]=Lavora su file e cartelle come amministratore
+# reportbug.desktop
+# Name[it_IT]=Reportbug
+# Comment[it_IT]=Segnala bugs al Debian BTS
+# terminal-root.desktop
+# Name[it_IT]=Terminale di Root
+# Comment[it_IT]=Lancia un emulatore di terminale per sistemi X come amministratore
+# top.desktop
+# Name[it_IT]=
+# Comment[it_IT]=Mostra i processi di sistema
+# xkill.desktop
+# Name[it_IT]=
+# Comment[it_IT]=Termina un Programma malfunzionante
+# sparky-center.desktop
+# Name[it_IT]=
+# Comment[it_IT]=Configura le impostazioni di sistema
+# disk-manager.desktop
+# Name[it_IT]=Gestione disco
+# Comment[it_IT]=Il gestore di configurazione del file System
+# obconf.desktop
+# Name[it_IT]=Gestione della configurazione di Openbox
+# Comment[it_IT]=Configurare e personalizzare finestre Openbox

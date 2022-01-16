@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Java
+Comment=Choose default Java version
+Comment[el]=Επιλέξτε έκδοση java για προεπιλογή
+Comment[es]=Elija la versión de Java predeterminada
+Comment[fr]=Choisir la version Java  par défaut
+Comment[id]=Pilih versi Java default
+Comment[it]=Scegli la versione di Java di default
+Comment[ja]=デフォルト Java バージョンの選択
+Comment[pl]=Wybierz domyślną wersję Java
+Comment[pt_BR]=Escolha a versão  Java padrão
+Comment[pt_PT]=Escolha a versão padrão (default)do Java
+Comment[ru]=Выберите версию Java по умолчанию
+Icon=java
+Exec=remsu /usr/lib/sparkycenter/bin/sparky-center-exe java-default
+StartupNotify=true
+Terminal=False
+Categories=Settings;DesktopSettings;X-LXDE-Settings;GTK;

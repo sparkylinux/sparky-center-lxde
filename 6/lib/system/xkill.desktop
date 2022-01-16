@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=X-Kill
+Comment=Terminate a Malfunctioning Program
+Comment[el]=Τερματισμός μιας εφαρμογής που δεν ανταποκρίνεται
+Comment[es]=Termine un programa que funciona mal
+Comment[fr]=Clore un programme qui dysfonctionne
+Comment[id]=Hentikan program yang malfungsi
+Comment[it]=Termina un Programma malfunzionante
+Comment[ja]=動作不良プログラムの終了
+Comment[pl]=Zakończ wadliwie działający program
+Comment[pt_BR]=Finaliza os programas com mal-funcionamento
+Comment[pt_PT]=Termina um Programa (kill)
+Comment[ru]=Завершение неисправной программы
+Exec=xkill
+Icon=xkill
+Terminal=False
+Type=Application
+Categories=System

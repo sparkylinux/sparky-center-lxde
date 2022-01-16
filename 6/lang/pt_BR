@@ -1,0 +1,77 @@
+#Arquivo de localização para o Português do Brasil  para o  aplicativo  Sparky Center LXDE
+# Copyright 2015 PaweÅ‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/26
+# Sob a licença GNU GPL v2
+# Traduzido por Claudio Cesar de Sá "ccs1664" <ccs1664@gmail.com> 2015/10/30
+# Last update by pavroo 2018/08/05
+LOCAL1="Detalhes visuais e aparência das aplicações e da área de trabalho (desktop)"
+LOCAL2="Aplicações Padrões"
+LOCAL3="Gerenciamento de Disco"
+LOCAL4="Gerenciamento de Hardware"
+LOCAL5="Gerenciamento das Aplicações (Software)"
+LOCAL6="Ajustes do Sistema"
+LOCAL7="Ajustes dos Usuários do Sistema"
+LOCAL8="Outros Ajustes"
+LOCAL9="Aparência"
+LOCAL10="Padrão (Default)"
+LOCAL11="Disco"
+LOCAL12="Hardware"
+LOCAL13="Aplicações (Software)"
+LOCAL14="Sistema"
+LOCAL15="Usuários"
+LOCAL16="Outros"
+LOCAL17="Ausência do Flash Player"
+LOCAL18="O Flash Player não foi encontrado, sinto muito!\n\nInstale o pacote 'flashplugin-nonfree' e tente novamente."
+LOCAL19="Sem o Mixer do Som"
+LOCAL20="O Mixer do som não foi encontrado, sinto muito!"
+### .desktop files to be translated too
+# editor.desktop
+# Name[pt_BR]=Editor de Texto
+# Comment[pt_BR]=Escolha o editor de texto padrão
+# java.desktop
+# Name[pt_BR]=
+# Comment[pt_BR]=Escolha a versão  Java padrão
+# session.desktop
+# Name[pt_BR]=Gerenciador de Sessão
+# Comment[pt_BR]=Escolha gerenciador de sessão padrão 
+# terminal.desktop
+# Name[pt_BR]=Emulator do Terminal-X
+# Comment[pt_BR]=Escolha do emulator terminal-X padrão
+# window.desktop
+# Name[pt_BR]=Gerenciador de Janela
+# Comment[pt_BR]=Escolha do gerenciador de janela
+# cfdisk.desktop
+# GenericName[pt_BR]=Editor de Partição em Modo Texto
+# Comment[pt_BR]=Crie, reorganize, e apague partições em modo texto
+# gnome-alsamixer.desktop
+# Name[pt_BR]=Mixer do Som
+# Comment[pt_BR]=Mixer do som para o sistema
+# florence.desktop
+# Name[pt_BR]=Teclado Virtual
+# Comment[pt_BR]=
+# itweb-settings.desktop
+# Name[pt_BR]=Painel de Controle do IcedTea Web 
+# Comment[pt_BR]=Configure IcedTea Web (javaws e plugins)
+# openjdk-policytool.desktop
+# Name[pt_BR]=Ferramenta de Políticas do OpenJDK Java
+# Comment[pt_BR]=
+# file-root.desktop
+# Name[pt_BR]=Gerenciador de Arquivos em Modo Root 
+# Comment[pt_BR]=Trabalhe nos arquivos e diretórios em modo root
+# reportbug.desktop
+# Name[pt_BR]=Reporta Erros e Falhas
+# Comment[pt_BR]=Reporta erros e falhas para o Debian BTS
+# terminal-root.desktop
+# Name[pt_BR]=Terminal Root
+# Comment[pt_BR]=Emulador de terminal-X padrão para o sistema de janela X como root
+# top.desktop
+# Name[pt_BR]=
+# Comment[pt_BR]=Mostra os processos do sistema
+# xkill.desktop
+# Name[pt_BR]=
+# Comment[pt_BR]=Finaliza os programas com mal-funcionamento
+# sparky-center.desktop
+# Name[pt_BR]=
+# Comment[pt_BR]=Configurar ajustes do sistema
+# .desktop
+# Name[pt_BR]=Sparky Center LXDE
+# Comment[pt_BR]=

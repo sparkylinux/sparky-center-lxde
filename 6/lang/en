@@ -1,0 +1,79 @@
+# English localization file for Sparky Center LXDE.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/26
+# Under the GNU GPL v2
+# Last update by pavroo 2018/08/05
+LOCAL1="Look and feel of the desktop and applications"
+LOCAL2="Default applications"
+LOCAL3="Disk management"
+LOCAL4="Hardware management"
+LOCAL5="Software management"
+LOCAL6="System settings"
+LOCAL7="System users settings"
+LOCAL8="Other settings"
+LOCAL9="Appearance"
+LOCAL10="Default"
+LOCAL11="Disk"
+LOCAL12="Hardware"
+LOCAL13="Software"
+LOCAL14="System"
+LOCAL15="Users"
+LOCAL16="Others"
+LOCAL17="No Flash Player"
+LOCAL18="No Flash Player found, sorry!\n\nInstall 'flashplugin-nonfree' package and try again."
+LOCAL19="No Sound Mixer"
+LOCAL20="No sound mixer found, sorry!"
+### .desktop files to be translated too
+# editor.desktop
+# Name[en_US]=Text editor
+# Comment[en_US]=Choose default text editor
+# java.desktop
+# Name[en_US]=
+# Comment[en_US]=Choose default Java version
+# session.desktop
+# Name[en_US]=Session manager
+# Comment[en_US]=Choose default session manager
+# terminal.desktop
+# Name[en_US]=X Terminal Emulator
+# Comment[en_US]=Choose default Terminal Emulator
+# window.desktop
+# Name[en_US]=Window manager
+# Comment[en_US]=Choose default window manager
+# cfdisk.desktop
+# GenericName[en_US]=Text Mode Partition Editor
+# Comment[en_US]=Create, reorganize, and delete partitions in text mode
+# gnome-alsamixer.desktop
+# Name[en_US]=Sound Mixer
+# Comment[en_US]=Sound mixer of the system
+# florence.desktop
+# Name[en_US]=Virtual Keyboard
+# Comment[en_US]=
+# itweb-settings.desktop
+# Name[en_US]=IcedTea Web Control Panel
+# Comment[en_US]=Configure IcedTea Web (javaws and plugin)
+# openjdk-policytool.desktop
+# Name[en_US]=OpenJDK Java Policy Tool
+# Comment[en_US]=
+# file-root.desktop
+# Name[en_US]=Root file manager
+# Comment[en_US]=Work on files and folders as root
+# reportbug.desktop
+# Name[en_US]=Reportbug
+# Comment[en_US]=Report bugs to the Debian BTS
+# terminal-root.desktop
+# Name[en_US]=Root Terminal
+# Comment[en_US]=Standard terminal emulator for the X window system as root
+# top.desktop
+# Name[en_US]=
+# Comment[en_US]=Show System Processes
+# xkill.desktop
+# Name[en_US]=
+# Comment[en_US]=Terminate a Malfunctioning Program
+# sparky-center.desktop
+# Name[en_US]=
+# Comment[en_US]=Configure system settings
+# disk-manager.desktop
+# Name[en_US]=Disk Manager
+# Comment[en_US]=Manage filesystem configuration
+# obconf.desktop
+# Name[en_US]=Openbox Configuration Manager
+# Comment[en_US]=Configure and personalize the Openbox window manager
